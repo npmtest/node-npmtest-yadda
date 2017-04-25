@@ -1,594 +1,594 @@
 <svg height="9454" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="9454" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-22 12:57:20 +0000   762527 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-22 12:57:20 +0000    20729 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-22 12:57:20 +0000     4795 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-22 12:57:20 +0000      789 bytes  bin/browserify.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-22 12:57:20 +0000      188 bytes  bin/examples.bat</tspan>
-<tspan x="10" y="106">  5.  2017-04-22 12:57:20 +0000      268 bytes  bin/examples.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-22 12:57:20 +0000      172 bytes  bin/examples.sh</tspan>
-<tspan x="10" y="138">  7.  2017-04-22 12:57:20 +0000      840 bytes  bin/rev.sh</tspan>
-<tspan x="10" y="154">  8.  2017-04-22 12:57:20 +0000      547 bytes  bower.json</tspan>
-<tspan x="10" y="170">  9.  2017-04-22 12:57:20 +0000     2091 bytes  component.json</tspan>
-<tspan x="10" y="186"> 10.  2017-04-22 12:57:20 +0000       74 bytes  examples/basic-async/README.md</tspan>
-<tspan x="10" y="202"> 11.  2017-04-22 12:57:20 +0000       46 bytes  examples/basic-async/bin/example.bat</tspan>
-<tspan x="10" y="218"> 12.  2017-04-22 12:57:20 +0000      266 bytes  examples/basic-async/bin/example.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-22 12:57:20 +0000       25 bytes  examples/basic-async/bin/example.sh</tspan>
-<tspan x="10" y="250"> 14.  2017-04-22 12:57:20 +0000      342 bytes  examples/basic-async/demo.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-22 12:57:20 +0000     1381 bytes  examples/basic-async/lib/bottles-library.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-22 12:57:20 +0000      248 bytes  examples/basic-async/package.json</tspan>
-<tspan x="10" y="298"> 17.  2017-04-22 12:57:20 +0000       68 bytes  examples/basic/README.md</tspan>
-<tspan x="10" y="314"> 18.  2017-04-22 12:57:20 +0000       46 bytes  examples/basic/bin/example.bat</tspan>
-<tspan x="10" y="330"> 19.  2017-04-22 12:57:20 +0000      266 bytes  examples/basic/bin/example.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-22 12:57:20 +0000       25 bytes  examples/basic/bin/example.sh</tspan>
-<tspan x="10" y="362"> 21.  2017-04-22 12:57:20 +0000      299 bytes  examples/basic/demo.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-22 12:57:20 +0000     1183 bytes  examples/basic/lib/bottles-library.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-22 12:57:20 +0000      242 bytes  examples/basic/package.json</tspan>
-<tspan x="10" y="410"> 24.  2017-04-22 12:57:20 +0000      169 bytes  examples/casper/README.md</tspan>
-<tspan x="10" y="426"> 25.  2017-04-22 12:57:20 +0000      408 bytes  examples/casper/bin/example.bat</tspan>
-<tspan x="10" y="442"> 26.  2017-04-22 12:57:20 +0000      266 bytes  examples/casper/bin/example.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-22 12:57:20 +0000      209 bytes  examples/casper/bin/example.sh</tspan>
-<tspan x="10" y="474"> 28.  2017-04-22 12:57:20 +0000      612 bytes  examples/casper/features/google.feature</tspan>
-<tspan x="10" y="490"> 29.  2017-04-22 12:57:20 +0000     1514 bytes  examples/casper/google-library.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-22 12:57:20 +0000      426 bytes  examples/casper/package.json</tspan>
-<tspan x="10" y="522"> 31.  2017-04-22 12:57:20 +0000     1115 bytes  examples/casper/test.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-22 12:57:20 +0000      106 bytes  examples/component-browser/Makefile</tspan>
-<tspan x="10" y="554"> 33.  2017-04-22 12:57:20 +0000       79 bytes  examples/component-browser/README.md</tspan>
-<tspan x="10" y="570"> 34.  2017-04-22 12:57:20 +0000      371 bytes  examples/component-browser/bin/example.bat</tspan>
-<tspan x="10" y="586"> 35.  2017-04-22 12:57:20 +0000      266 bytes  examples/component-browser/bin/example.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-22 12:57:20 +0000      120 bytes  examples/component-browser/bin/example.sh</tspan>
-<tspan x="10" y="618"> 37.  2017-04-22 12:57:20 +0000     1087 bytes  examples/component-browser/bottles-library.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-22 12:57:20 +0000   207024 bytes  examples/component-browser/build/build.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-22 12:57:20 +0000      212 bytes  examples/component-browser/component.json</tspan>
-<tspan x="10" y="666"> 40.  2017-04-22 12:57:20 +0000     1847 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 20:59:41 +0000   762527 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 20:59:41 +0000    20729 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 20:59:41 +0000     4795 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 20:59:41 +0000      789 bytes  bin/browserify.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 20:59:41 +0000      188 bytes  bin/examples.bat</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 20:59:41 +0000      268 bytes  bin/examples.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 20:59:41 +0000      172 bytes  bin/examples.sh</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 20:59:41 +0000      840 bytes  bin/rev.sh</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 20:59:41 +0000      547 bytes  bower.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 20:59:41 +0000     2091 bytes  component.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 20:59:41 +0000       74 bytes  examples/basic-async/README.md</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 20:59:41 +0000       46 bytes  examples/basic-async/bin/example.bat</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 20:59:41 +0000      266 bytes  examples/basic-async/bin/example.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 20:59:41 +0000       25 bytes  examples/basic-async/bin/example.sh</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 20:59:41 +0000      342 bytes  examples/basic-async/demo.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 20:59:41 +0000     1381 bytes  examples/basic-async/lib/bottles-library.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 20:59:41 +0000      248 bytes  examples/basic-async/package.json</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 20:59:41 +0000       68 bytes  examples/basic/README.md</tspan>
+<tspan x="10" y="314"> 18.  2017-04-25 20:59:41 +0000       46 bytes  examples/basic/bin/example.bat</tspan>
+<tspan x="10" y="330"> 19.  2017-04-25 20:59:41 +0000      266 bytes  examples/basic/bin/example.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-25 20:59:41 +0000       25 bytes  examples/basic/bin/example.sh</tspan>
+<tspan x="10" y="362"> 21.  2017-04-25 20:59:41 +0000      299 bytes  examples/basic/demo.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-25 20:59:41 +0000     1183 bytes  examples/basic/lib/bottles-library.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-25 20:59:41 +0000      242 bytes  examples/basic/package.json</tspan>
+<tspan x="10" y="410"> 24.  2017-04-25 20:59:41 +0000      169 bytes  examples/casper/README.md</tspan>
+<tspan x="10" y="426"> 25.  2017-04-25 20:59:41 +0000      408 bytes  examples/casper/bin/example.bat</tspan>
+<tspan x="10" y="442"> 26.  2017-04-25 20:59:41 +0000      266 bytes  examples/casper/bin/example.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-25 20:59:41 +0000      209 bytes  examples/casper/bin/example.sh</tspan>
+<tspan x="10" y="474"> 28.  2017-04-25 20:59:41 +0000      612 bytes  examples/casper/features/google.feature</tspan>
+<tspan x="10" y="490"> 29.  2017-04-25 20:59:41 +0000     1514 bytes  examples/casper/google-library.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-25 20:59:41 +0000      426 bytes  examples/casper/package.json</tspan>
+<tspan x="10" y="522"> 31.  2017-04-25 20:59:41 +0000     1115 bytes  examples/casper/test.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-25 20:59:41 +0000      106 bytes  examples/component-browser/Makefile</tspan>
+<tspan x="10" y="554"> 33.  2017-04-25 20:59:41 +0000       79 bytes  examples/component-browser/README.md</tspan>
+<tspan x="10" y="570"> 34.  2017-04-25 20:59:41 +0000      371 bytes  examples/component-browser/bin/example.bat</tspan>
+<tspan x="10" y="586"> 35.  2017-04-25 20:59:41 +0000      266 bytes  examples/component-browser/bin/example.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-25 20:59:41 +0000      120 bytes  examples/component-browser/bin/example.sh</tspan>
+<tspan x="10" y="618"> 37.  2017-04-25 20:59:41 +0000     1087 bytes  examples/component-browser/bottles-library.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-25 20:59:41 +0000   207024 bytes  examples/component-browser/build/build.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-25 20:59:41 +0000      212 bytes  examples/component-browser/component.json</tspan>
+<tspan x="10" y="666"> 40.  2017-04-25 20:59:41 +0000     1847 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="682">yadda/component.json</tspan>
-<tspan x="10" y="698"> 41.  2017-04-22 12:57:20 +0000     4101 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="698"> 41.  2017-04-25 20:59:41 +0000     4101 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="714">yadda/lib/Array.js</tspan>
-<tspan x="10" y="730"> 42.  2017-04-22 12:57:20 +0000     1899 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="730"> 42.  2017-04-25 20:59:41 +0000     1899 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="746">yadda/lib/Competition.js</tspan>
-<tspan x="10" y="762"> 43.  2017-04-22 12:57:20 +0000      772 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="762"> 43.  2017-04-25 20:59:41 +0000      772 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="778">yadda/lib/Context.js</tspan>
-<tspan x="10" y="794"> 44.  2017-04-22 12:57:20 +0000     4506 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="794"> 44.  2017-04-25 20:59:41 +0000     4506 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="810">yadda/lib/Dictionary.js</tspan>
-<tspan x="10" y="826"> 45.  2017-04-22 12:57:20 +0000     1405 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="826"> 45.  2017-04-25 20:59:41 +0000     1405 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="842">yadda/lib/EventBus.js</tspan>
-<tspan x="10" y="858"> 46.  2017-04-22 12:57:20 +0000      268 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="858"> 46.  2017-04-25 20:59:41 +0000      268 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="874">yadda/lib/FeatureFileSearch.js</tspan>
-<tspan x="10" y="890"> 47.  2017-04-22 12:57:20 +0000     1739 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="890"> 47.  2017-04-25 20:59:41 +0000     1739 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="906">yadda/lib/FileSearch.js</tspan>
-<tspan x="10" y="922"> 48.  2017-04-22 12:57:20 +0000     2293 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="922"> 48.  2017-04-25 20:59:41 +0000     2293 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="938">yadda/lib/Interpreter.js</tspan>
-<tspan x="10" y="954"> 49.  2017-04-22 12:57:20 +0000     1856 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="954"> 49.  2017-04-25 20:59:41 +0000     1856 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="970">yadda/lib/LevenshteinDistanceScore.js</tspan>
-<tspan x="10" y="986"> 50.  2017-04-22 12:57:20 +0000     1155 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="986"> 50.  2017-04-25 20:59:41 +0000     1155 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1002">yadda/lib/Library.js</tspan>
-<tspan x="10" y="1018"> 51.  2017-04-22 12:57:20 +0000     1916 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1018"> 51.  2017-04-25 20:59:41 +0000     1916 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1034">yadda/lib/Macro.js</tspan>
-<tspan x="10" y="1050"> 52.  2017-04-22 12:57:20 +0000      789 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1050"> 52.  2017-04-25 20:59:41 +0000      789 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1066">yadda/lib/Platform.js</tspan>
-<tspan x="10" y="1082"> 53.  2017-04-22 12:57:20 +0000     1580 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1082"> 53.  2017-04-25 20:59:41 +0000     1580 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1098">yadda/lib/RegularExpression.js</tspan>
-<tspan x="10" y="1114"> 54.  2017-04-22 12:57:20 +0000      514 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1114"> 54.  2017-04-25 20:59:41 +0000      514 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1130">yadda/lib/StringUtils.js</tspan>
-<tspan x="10" y="1146"> 55.  2017-04-22 12:57:20 +0000     1202 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1146"> 55.  2017-04-25 20:59:41 +0000     1202 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1162">yadda/lib/Yadda.js</tspan>
-<tspan x="10" y="1178"> 56.  2017-04-22 12:57:20 +0000      115 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1178"> 56.  2017-04-25 20:59:41 +0000      115 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1194">yadda/lib/converters/date-converter.js</tspan>
-<tspan x="10" y="1210"> 57.  2017-04-22 12:57:20 +0000      117 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1210"> 57.  2017-04-25 20:59:41 +0000      117 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1226">yadda/lib/converters/float-converter.js</tspan>
-<tspan x="10" y="1242"> 58.  2017-04-22 12:57:20 +0000      216 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1242"> 58.  2017-04-25 20:59:41 +0000      216 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1258">yadda/lib/converters/index.js</tspan>
-<tspan x="10" y="1274"> 59.  2017-04-22 12:57:20 +0000      117 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1274"> 59.  2017-04-25 20:59:41 +0000      117 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1290">yadda/lib/converters/integer-converter.js</tspan>
-<tspan x="10" y="1306"> 60.  2017-04-22 12:57:20 +0000      112 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1306"> 60.  2017-04-25 20:59:41 +0000      112 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1322">yadda/lib/converters/pass-through-converter.js</tspan>
-<tspan x="10" y="1338"> 61.  2017-04-22 12:57:20 +0000     1027 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1338"> 61.  2017-04-25 20:59:41 +0000     1027 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1354">yadda/lib/fn.js</tspan>
-<tspan x="10" y="1370"> 62.  2017-04-22 12:57:20 +0000      879 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1370"> 62.  2017-04-25 20:59:41 +0000      879 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1386">yadda/lib/index.js</tspan>
-<tspan x="10" y="1402"> 63.  2017-04-22 12:57:20 +0000      624 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1402"> 63.  2017-04-25 20:59:41 +0000      624 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1418">yadda/lib/localisation/English.js</tspan>
-<tspan x="10" y="1434"> 64.  2017-04-22 12:57:20 +0000     1970 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1434"> 64.  2017-04-25 20:59:41 +0000     1970 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1450">yadda/lib/localisation/French.js</tspan>
-<tspan x="10" y="1466"> 65.  2017-04-22 12:57:20 +0000     1390 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1466"> 65.  2017-04-25 20:59:41 +0000     1390 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1482">yadda/lib/localisation/German.js</tspan>
-<tspan x="10" y="1498"> 66.  2017-04-22 12:57:20 +0000     1289 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1498"> 66.  2017-04-25 20:59:41 +0000     1289 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1514">yadda/lib/localisation/Language.js</tspan>
-<tspan x="10" y="1530"> 67.  2017-04-22 12:57:20 +0000      796 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1530"> 67.  2017-04-25 20:59:41 +0000      796 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1546">yadda/lib/localisation/Norwegian.js</tspan>
-<tspan x="10" y="1562"> 68.  2017-04-22 12:57:20 +0000      843 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1562"> 68.  2017-04-25 20:59:41 +0000      843 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1578">yadda/lib/localisation/Pirate.js</tspan>
-<tspan x="10" y="1594"> 69.  2017-04-22 12:57:20 +0000     1238 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1594"> 69.  2017-04-25 20:59:41 +0000     1238 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1610">yadda/lib/localisation/Polish.js</tspan>
-<tspan x="10" y="1626"> 70.  2017-04-22 12:57:20 +0000     1805 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1626"> 70.  2017-04-25 20:59:41 +0000     1805 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1642">yadda/lib/localisation/Portuguese.js</tspan>
-<tspan x="10" y="1658"> 71.  2017-04-22 12:57:20 +0000     1138 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1658"> 71.  2017-04-25 20:59:41 +0000     1138 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1674">yadda/lib/localisation/Russian.js</tspan>
-<tspan x="10" y="1690"> 72.  2017-04-22 12:57:20 +0000     1769 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1690"> 72.  2017-04-25 20:59:41 +0000     1769 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1706">yadda/lib/localisation/Spanish.js</tspan>
-<tspan x="10" y="1722"> 73.  2017-04-22 12:57:20 +0000      425 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1722"> 73.  2017-04-25 20:59:41 +0000      425 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1738">yadda/lib/localisation/index.js</tspan>
-<tspan x="10" y="1754"> 74.  2017-04-22 12:57:20 +0000      474 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1754"> 74.  2017-04-25 20:59:41 +0000      474 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1770">yadda/lib/parsers/FeatureFileParser.js</tspan>
-<tspan x="10" y="1786"> 75.  2017-04-22 12:57:20 +0000    15061 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1786"> 75.  2017-04-25 20:59:41 +0000    15061 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1802">yadda/lib/parsers/FeatureParser.js</tspan>
-<tspan x="10" y="1818"> 76.  2017-04-22 12:57:20 +0000      465 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1818"> 76.  2017-04-25 20:59:41 +0000      465 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1834">yadda/lib/parsers/StepParser.js</tspan>
-<tspan x="10" y="1850"> 77.  2017-04-22 12:57:20 +0000      179 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1850"> 77.  2017-04-25 20:59:41 +0000      179 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1866">yadda/lib/parsers/index.js</tspan>
-<tspan x="10" y="1882"> 78.  2017-04-22 12:57:20 +0000      760 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1882"> 78.  2017-04-25 20:59:41 +0000      760 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1898">yadda/lib/plugins/CasperPlugin.js</tspan>
-<tspan x="10" y="1914"> 79.  2017-04-22 12:57:20 +0000      278 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1914"> 79.  2017-04-25 20:59:41 +0000      278 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1930">yadda/lib/plugins/index.js</tspan>
-<tspan x="10" y="1946"> 80.  2017-04-22 12:57:20 +0000     2356 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1946"> 80.  2017-04-25 20:59:41 +0000     2356 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1962">yadda/lib/plugins/mocha/BasePlugin.js</tspan>
-<tspan x="10" y="1978"> 81.  2017-04-22 12:57:20 +0000      855 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="1978"> 81.  2017-04-25 20:59:41 +0000      855 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="1994">yadda/lib/plugins/mocha/ScenarioLevelPlugin.js</tspan>
-<tspan x="10" y="2010"> 82.  2017-04-22 12:57:20 +0000     1835 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="2010"> 82.  2017-04-25 20:59:41 +0000     1835 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="2026">yadda/lib/plugins/mocha/StepLevelPlugin.js</tspan>
-<tspan x="10" y="2042"> 83.  2017-04-22 12:57:20 +0000      748 bytes  examples/component-browser/components/acuminous-\</tspan>
+<tspan x="10" y="2042"> 83.  2017-04-25 20:59:41 +0000      748 bytes  examples/component-browser/components/acuminous-\</tspan>
 <tspan x="10" y="2058">yadda/lib/shims/index.js</tspan>
-<tspan x="10" y="2074"> 84.  2017-04-22 12:57:20 +0000     1281 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2074"> 84.  2017-04-25 20:59:41 +0000     1281 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2090">i/component.json</tspan>
-<tspan x="10" y="2106"> 85.  2017-04-22 12:57:20 +0000       40 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2106"> 85.  2017-04-25 20:59:41 +0000       40 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2122">i/index.js</tspan>
-<tspan x="10" y="2138"> 86.  2017-04-22 12:57:20 +0000     1119 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2138"> 86.  2017-04-25 20:59:41 +0000     1119 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2154">i/lib/chai.js</tspan>
-<tspan x="10" y="2170"> 87.  2017-04-22 12:57:20 +0000     3137 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2170"> 87.  2017-04-25 20:59:41 +0000     3137 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2186">i/lib/chai/assertion.js</tspan>
-<tspan x="10" y="2202"> 88.  2017-04-22 12:57:20 +0000    32477 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2202"> 88.  2017-04-25 20:59:41 +0000    32477 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2218">i/lib/chai/core/assertions.js</tspan>
-<tspan x="10" y="2234"> 89.  2017-04-22 12:57:20 +0000     1174 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2234"> 89.  2017-04-25 20:59:41 +0000     1174 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2250">i/lib/chai/error.js</tspan>
-<tspan x="10" y="2266"> 90.  2017-04-22 12:57:20 +0000    24394 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2266"> 90.  2017-04-25 20:59:41 +0000    24394 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2282">i/lib/chai/interface/assert.js</tspan>
-<tspan x="10" y="2298"> 91.  2017-04-22 12:57:20 +0000      233 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2298"> 91.  2017-04-25 20:59:41 +0000      233 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2314">i/lib/chai/interface/expect.js</tspan>
-<tspan x="10" y="2330"> 92.  2017-04-22 12:57:20 +0000     2109 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2330"> 92.  2017-04-25 20:59:41 +0000     2109 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2346">i/lib/chai/interface/should.js</tspan>
-<tspan x="10" y="2362"> 93.  2017-04-22 12:57:20 +0000     2725 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2362"> 93.  2017-04-25 20:59:41 +0000     2725 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2378">i/lib/chai/utils/addChainableMethod.js</tspan>
-<tspan x="10" y="2394"> 94.  2017-04-22 12:57:20 +0000      970 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2394"> 94.  2017-04-25 20:59:41 +0000      970 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2410">i/lib/chai/utils/addMethod.js</tspan>
-<tspan x="10" y="2426"> 95.  2017-04-22 12:57:20 +0000     1041 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2426"> 95.  2017-04-25 20:59:41 +0000     1041 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2442">i/lib/chai/utils/addProperty.js</tspan>
-<tspan x="10" y="2458"> 96.  2017-04-22 12:57:20 +0000     3611 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2458"> 96.  2017-04-25 20:59:41 +0000     3611 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2474">i/lib/chai/utils/eql.js</tspan>
-<tspan x="10" y="2490"> 97.  2017-04-22 12:57:20 +0000      788 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2490"> 97.  2017-04-25 20:59:41 +0000      788 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2506">i/lib/chai/utils/flag.js</tspan>
-<tspan x="10" y="2522"> 98.  2017-04-22 12:57:20 +0000      452 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2522"> 98.  2017-04-25 20:59:41 +0000      452 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2538">i/lib/chai/utils/getActual.js</tspan>
-<tspan x="10" y="2554"> 99.  2017-04-22 12:57:20 +0000      527 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2554"> 99.  2017-04-25 20:59:41 +0000      527 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2570">i/lib/chai/utils/getEnumerableProperties.js</tspan>
-<tspan x="10" y="2586">100.  2017-04-22 12:57:20 +0000     1253 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2586">100.  2017-04-25 20:59:41 +0000     1253 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2602">i/lib/chai/utils/getMessage.js</tspan>
-<tspan x="10" y="2618">101.  2017-04-22 12:57:20 +0000      429 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2618">101.  2017-04-25 20:59:41 +0000      429 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2634">i/lib/chai/utils/getName.js</tspan>
-<tspan x="10" y="2650">102.  2017-04-22 12:57:20 +0000     2452 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2650">102.  2017-04-25 20:59:41 +0000     2452 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2666">i/lib/chai/utils/getPathValue.js</tspan>
-<tspan x="10" y="2682">103.  2017-04-22 12:57:20 +0000      771 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2682">103.  2017-04-25 20:59:41 +0000      771 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2698">i/lib/chai/utils/getProperties.js</tspan>
-<tspan x="10" y="2714">104.  2017-04-22 12:57:20 +0000     1343 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2714">104.  2017-04-25 20:59:41 +0000     1343 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2730">i/lib/chai/utils/index.js</tspan>
-<tspan x="10" y="2746">105.  2017-04-22 12:57:20 +0000     9183 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2746">105.  2017-04-25 20:59:41 +0000     9183 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2762">i/lib/chai/utils/inspect.js</tspan>
-<tspan x="10" y="2778">106.  2017-04-22 12:57:20 +0000     1112 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2778">106.  2017-04-25 20:59:41 +0000     1112 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2794">i/lib/chai/utils/objDisplay.js</tspan>
-<tspan x="10" y="2810">107.  2017-04-22 12:57:20 +0000     1432 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2810">107.  2017-04-25 20:59:41 +0000     1432 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2826">i/lib/chai/utils/overwriteMethod.js</tspan>
-<tspan x="10" y="2842">108.  2017-04-22 12:57:20 +0000     1509 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2842">108.  2017-04-25 20:59:41 +0000     1509 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2858">i/lib/chai/utils/overwriteProperty.js</tspan>
-<tspan x="10" y="2874">109.  2017-04-22 12:57:20 +0000      500 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2874">109.  2017-04-25 20:59:41 +0000      500 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2890">i/lib/chai/utils/test.js</tspan>
-<tspan x="10" y="2906">110.  2017-04-22 12:57:20 +0000     1291 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2906">110.  2017-04-25 20:59:41 +0000     1291 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2922">i/lib/chai/utils/transferFlags.js</tspan>
-<tspan x="10" y="2938">111.  2017-04-22 12:57:20 +0000     1087 bytes  examples/component-browser/components/chaijs-cha\</tspan>
+<tspan x="10" y="2938">111.  2017-04-25 20:59:41 +0000     1087 bytes  examples/component-browser/components/chaijs-cha\</tspan>
 <tspan x="10" y="2954">i/lib/chai/utils/type.js</tspan>
-<tspan x="10" y="2970">112.  2017-04-22 12:57:20 +0000      860 bytes  examples/component-browser/features/bottles.feat\</tspan>
+<tspan x="10" y="2970">112.  2017-04-25 20:59:41 +0000      860 bytes  examples/component-browser/features/bottles.feat\</tspan>
 <tspan x="10" y="2986">ure</tspan>
-<tspan x="10" y="3002">113.  2017-04-22 12:57:20 +0000      911 bytes  examples/component-browser/features/bottles.feat\</tspan>
+<tspan x="10" y="3002">113.  2017-04-25 20:59:41 +0000      911 bytes  examples/component-browser/features/bottles.feat\</tspan>
 <tspan x="10" y="3018">ure.js</tspan>
-<tspan x="10" y="3034">114.  2017-04-22 12:57:20 +0000      272 bytes  examples/component-browser/index.html</tspan>
-<tspan x="10" y="3050">115.  2017-04-22 12:57:20 +0000      315 bytes  examples/component-browser/package.json</tspan>
-<tspan x="10" y="3066">116.  2017-04-22 12:57:20 +0000      836 bytes  examples/component-browser/test.js</tspan>
-<tspan x="10" y="3082">117.  2017-04-22 12:57:20 +0000       70 bytes  examples/context/README.md</tspan>
-<tspan x="10" y="3098">118.  2017-04-22 12:57:20 +0000       81 bytes  examples/context/bin/example.bat</tspan>
-<tspan x="10" y="3114">119.  2017-04-22 12:57:20 +0000      266 bytes  examples/context/bin/example.js</tspan>
-<tspan x="10" y="3130">120.  2017-04-22 12:57:20 +0000       62 bytes  examples/context/bin/example.sh</tspan>
-<tspan x="10" y="3146">121.  2017-04-22 12:57:20 +0000      390 bytes  examples/context/features/context.feature</tspan>
-<tspan x="10" y="3162">122.  2017-04-22 12:57:20 +0000     1173 bytes  examples/context/lib/discharge-library.js</tspan>
-<tspan x="10" y="3178">123.  2017-04-22 12:57:20 +0000      845 bytes  examples/context/lib/hospital-library.js</tspan>
-<tspan x="10" y="3194">124.  2017-04-22 12:57:20 +0000     1685 bytes  examples/context/lib/patient-library.js</tspan>
-<tspan x="10" y="3210">125.  2017-04-22 12:57:20 +0000      297 bytes  examples/context/package.json</tspan>
-<tspan x="10" y="3226">126.  2017-04-22 12:57:20 +0000     1288 bytes  examples/context/test.js</tspan>
-<tspan x="10" y="3242">127.  2017-04-22 12:57:20 +0000       81 bytes  examples/data-tables/bin/example.bat</tspan>
-<tspan x="10" y="3258">128.  2017-04-22 12:57:20 +0000      266 bytes  examples/data-tables/bin/example.js</tspan>
-<tspan x="10" y="3274">129.  2017-04-22 12:57:20 +0000       62 bytes  examples/data-tables/bin/example.sh</tspan>
-<tspan x="10" y="3290">130.  2017-04-22 12:57:20 +0000      996 bytes  examples/data-tables/features/data-tables.featur\</tspan>
+<tspan x="10" y="3034">114.  2017-04-25 20:59:41 +0000      272 bytes  examples/component-browser/index.html</tspan>
+<tspan x="10" y="3050">115.  2017-04-25 20:59:41 +0000      315 bytes  examples/component-browser/package.json</tspan>
+<tspan x="10" y="3066">116.  2017-04-25 20:59:41 +0000      836 bytes  examples/component-browser/test.js</tspan>
+<tspan x="10" y="3082">117.  2017-04-25 20:59:41 +0000       70 bytes  examples/context/README.md</tspan>
+<tspan x="10" y="3098">118.  2017-04-25 20:59:41 +0000       81 bytes  examples/context/bin/example.bat</tspan>
+<tspan x="10" y="3114">119.  2017-04-25 20:59:41 +0000      266 bytes  examples/context/bin/example.js</tspan>
+<tspan x="10" y="3130">120.  2017-04-25 20:59:41 +0000       62 bytes  examples/context/bin/example.sh</tspan>
+<tspan x="10" y="3146">121.  2017-04-25 20:59:41 +0000      390 bytes  examples/context/features/context.feature</tspan>
+<tspan x="10" y="3162">122.  2017-04-25 20:59:41 +0000     1173 bytes  examples/context/lib/discharge-library.js</tspan>
+<tspan x="10" y="3178">123.  2017-04-25 20:59:41 +0000      845 bytes  examples/context/lib/hospital-library.js</tspan>
+<tspan x="10" y="3194">124.  2017-04-25 20:59:41 +0000     1685 bytes  examples/context/lib/patient-library.js</tspan>
+<tspan x="10" y="3210">125.  2017-04-25 20:59:41 +0000      297 bytes  examples/context/package.json</tspan>
+<tspan x="10" y="3226">126.  2017-04-25 20:59:41 +0000     1288 bytes  examples/context/test.js</tspan>
+<tspan x="10" y="3242">127.  2017-04-25 20:59:41 +0000       81 bytes  examples/data-tables/bin/example.bat</tspan>
+<tspan x="10" y="3258">128.  2017-04-25 20:59:41 +0000      266 bytes  examples/data-tables/bin/example.js</tspan>
+<tspan x="10" y="3274">129.  2017-04-25 20:59:41 +0000       62 bytes  examples/data-tables/bin/example.sh</tspan>
+<tspan x="10" y="3290">130.  2017-04-25 20:59:41 +0000      996 bytes  examples/data-tables/features/data-tables.featur\</tspan>
 <tspan x="10" y="3306">e</tspan>
-<tspan x="10" y="3322">131.  2017-04-22 12:57:20 +0000     1771 bytes  examples/data-tables/library.js</tspan>
-<tspan x="10" y="3338">132.  2017-04-22 12:57:20 +0000      280 bytes  examples/data-tables/package.json</tspan>
-<tspan x="10" y="3354">133.  2017-04-22 12:57:20 +0000      542 bytes  examples/data-tables/test.js</tspan>
-<tspan x="10" y="3370">134.  2017-04-22 12:57:20 +0000       73 bytes  examples/dictionary/README.md</tspan>
-<tspan x="10" y="3386">135.  2017-04-22 12:57:20 +0000       81 bytes  examples/dictionary/bin/example.bat</tspan>
-<tspan x="10" y="3402">136.  2017-04-22 12:57:20 +0000      266 bytes  examples/dictionary/bin/example.js</tspan>
-<tspan x="10" y="3418">137.  2017-04-22 12:57:20 +0000       62 bytes  examples/dictionary/bin/example.sh</tspan>
-<tspan x="10" y="3434">138.  2017-04-22 12:57:20 +0000     1441 bytes  examples/dictionary/dictionary-library.js</tspan>
-<tspan x="10" y="3450">139.  2017-04-22 12:57:20 +0000      225 bytes  examples/dictionary/features/dictionary.feature</tspan>
-<tspan x="10" y="3466">140.  2017-04-22 12:57:20 +0000      274 bytes  examples/dictionary/package.json</tspan>
-<tspan x="10" y="3482">141.  2017-04-22 12:57:20 +0000      564 bytes  examples/dictionary/test.js</tspan>
-<tspan x="10" y="3498">142.  2017-04-22 12:57:20 +0000       70 bytes  examples/jasmine/README.md</tspan>
-<tspan x="10" y="3514">143.  2017-04-22 12:57:20 +0000       90 bytes  examples/jasmine/bin/example.bat</tspan>
-<tspan x="10" y="3530">144.  2017-04-22 12:57:20 +0000      266 bytes  examples/jasmine/bin/example.js</tspan>
-<tspan x="10" y="3546">145.  2017-04-22 12:57:20 +0000       71 bytes  examples/jasmine/bin/example.sh</tspan>
-<tspan x="10" y="3562">146.  2017-04-22 12:57:20 +0000     1093 bytes  examples/jasmine/bottles-library.js</tspan>
-<tspan x="10" y="3578">147.  2017-04-22 12:57:20 +0000      572 bytes  examples/jasmine/features/bottles.feature</tspan>
-<tspan x="10" y="3594">148.  2017-04-22 12:57:20 +0000      312 bytes  examples/jasmine/package.json</tspan>
-<tspan x="10" y="3610">149.  2017-04-22 12:57:20 +0000      676 bytes  examples/jasmine/spec/bottles-spec.js</tspan>
-<tspan x="10" y="3626">150.  2017-04-22 12:57:20 +0000      111 bytes  examples/jasmine/spec/support/jasmine.json</tspan>
-<tspan x="10" y="3642">151.  2017-04-22 12:57:20 +0000       75 bytes  examples/localisation/README.md</tspan>
-<tspan x="10" y="3658">152.  2017-04-22 12:57:20 +0000       81 bytes  examples/localisation/bin/example.bat</tspan>
-<tspan x="10" y="3674">153.  2017-04-22 12:57:20 +0000      266 bytes  examples/localisation/bin/example.js</tspan>
-<tspan x="10" y="3690">154.  2017-04-22 12:57:20 +0000       62 bytes  examples/localisation/bin/example.sh</tspan>
-<tspan x="10" y="3706">155.  2017-04-22 12:57:20 +0000     1090 bytes  examples/localisation/bottles-library.js</tspan>
-<tspan x="10" y="3722">156.  2017-04-22 12:57:20 +0000      865 bytes  examples/localisation/features/bottles.feature</tspan>
-<tspan x="10" y="3738">157.  2017-04-22 12:57:20 +0000      277 bytes  examples/localisation/package.json</tspan>
-<tspan x="10" y="3754">158.  2017-04-22 12:57:20 +0000      616 bytes  examples/localisation/test.js</tspan>
-<tspan x="10" y="3770">159.  2017-04-22 12:57:20 +0000       74 bytes  examples/mocha-async-slp/README.md</tspan>
-<tspan x="10" y="3786">160.  2017-04-22 12:57:20 +0000       81 bytes  examples/mocha-async-slp/bin/example.bat</tspan>
-<tspan x="10" y="3802">161.  2017-04-22 12:57:20 +0000      266 bytes  examples/mocha-async-slp/bin/example.js</tspan>
-<tspan x="10" y="3818">162.  2017-04-22 12:57:20 +0000       62 bytes  examples/mocha-async-slp/bin/example.sh</tspan>
-<tspan x="10" y="3834">163.  2017-04-22 12:57:20 +0000     1187 bytes  examples/mocha-async-slp/bottles-library.js</tspan>
-<tspan x="10" y="3850">164.  2017-04-22 12:57:20 +0000      895 bytes  examples/mocha-async-slp/features/bottles.featur\</tspan>
+<tspan x="10" y="3322">131.  2017-04-25 20:59:41 +0000     1771 bytes  examples/data-tables/library.js</tspan>
+<tspan x="10" y="3338">132.  2017-04-25 20:59:41 +0000      280 bytes  examples/data-tables/package.json</tspan>
+<tspan x="10" y="3354">133.  2017-04-25 20:59:41 +0000      542 bytes  examples/data-tables/test.js</tspan>
+<tspan x="10" y="3370">134.  2017-04-25 20:59:41 +0000       73 bytes  examples/dictionary/README.md</tspan>
+<tspan x="10" y="3386">135.  2017-04-25 20:59:41 +0000       81 bytes  examples/dictionary/bin/example.bat</tspan>
+<tspan x="10" y="3402">136.  2017-04-25 20:59:41 +0000      266 bytes  examples/dictionary/bin/example.js</tspan>
+<tspan x="10" y="3418">137.  2017-04-25 20:59:41 +0000       62 bytes  examples/dictionary/bin/example.sh</tspan>
+<tspan x="10" y="3434">138.  2017-04-25 20:59:41 +0000     1441 bytes  examples/dictionary/dictionary-library.js</tspan>
+<tspan x="10" y="3450">139.  2017-04-25 20:59:41 +0000      225 bytes  examples/dictionary/features/dictionary.feature</tspan>
+<tspan x="10" y="3466">140.  2017-04-25 20:59:41 +0000      274 bytes  examples/dictionary/package.json</tspan>
+<tspan x="10" y="3482">141.  2017-04-25 20:59:41 +0000      564 bytes  examples/dictionary/test.js</tspan>
+<tspan x="10" y="3498">142.  2017-04-25 20:59:41 +0000       70 bytes  examples/jasmine/README.md</tspan>
+<tspan x="10" y="3514">143.  2017-04-25 20:59:41 +0000       90 bytes  examples/jasmine/bin/example.bat</tspan>
+<tspan x="10" y="3530">144.  2017-04-25 20:59:41 +0000      266 bytes  examples/jasmine/bin/example.js</tspan>
+<tspan x="10" y="3546">145.  2017-04-25 20:59:41 +0000       71 bytes  examples/jasmine/bin/example.sh</tspan>
+<tspan x="10" y="3562">146.  2017-04-25 20:59:41 +0000     1093 bytes  examples/jasmine/bottles-library.js</tspan>
+<tspan x="10" y="3578">147.  2017-04-25 20:59:41 +0000      572 bytes  examples/jasmine/features/bottles.feature</tspan>
+<tspan x="10" y="3594">148.  2017-04-25 20:59:41 +0000      312 bytes  examples/jasmine/package.json</tspan>
+<tspan x="10" y="3610">149.  2017-04-25 20:59:41 +0000      676 bytes  examples/jasmine/spec/bottles-spec.js</tspan>
+<tspan x="10" y="3626">150.  2017-04-25 20:59:41 +0000      111 bytes  examples/jasmine/spec/support/jasmine.json</tspan>
+<tspan x="10" y="3642">151.  2017-04-25 20:59:41 +0000       75 bytes  examples/localisation/README.md</tspan>
+<tspan x="10" y="3658">152.  2017-04-25 20:59:41 +0000       81 bytes  examples/localisation/bin/example.bat</tspan>
+<tspan x="10" y="3674">153.  2017-04-25 20:59:41 +0000      266 bytes  examples/localisation/bin/example.js</tspan>
+<tspan x="10" y="3690">154.  2017-04-25 20:59:41 +0000       62 bytes  examples/localisation/bin/example.sh</tspan>
+<tspan x="10" y="3706">155.  2017-04-25 20:59:41 +0000     1090 bytes  examples/localisation/bottles-library.js</tspan>
+<tspan x="10" y="3722">156.  2017-04-25 20:59:41 +0000      865 bytes  examples/localisation/features/bottles.feature</tspan>
+<tspan x="10" y="3738">157.  2017-04-25 20:59:41 +0000      277 bytes  examples/localisation/package.json</tspan>
+<tspan x="10" y="3754">158.  2017-04-25 20:59:41 +0000      616 bytes  examples/localisation/test.js</tspan>
+<tspan x="10" y="3770">159.  2017-04-25 20:59:41 +0000       74 bytes  examples/mocha-async-slp/README.md</tspan>
+<tspan x="10" y="3786">160.  2017-04-25 20:59:41 +0000       81 bytes  examples/mocha-async-slp/bin/example.bat</tspan>
+<tspan x="10" y="3802">161.  2017-04-25 20:59:41 +0000      266 bytes  examples/mocha-async-slp/bin/example.js</tspan>
+<tspan x="10" y="3818">162.  2017-04-25 20:59:41 +0000       62 bytes  examples/mocha-async-slp/bin/example.sh</tspan>
+<tspan x="10" y="3834">163.  2017-04-25 20:59:41 +0000     1187 bytes  examples/mocha-async-slp/bottles-library.js</tspan>
+<tspan x="10" y="3850">164.  2017-04-25 20:59:41 +0000      895 bytes  examples/mocha-async-slp/features/bottles.featur\</tspan>
 <tspan x="10" y="3866">e</tspan>
-<tspan x="10" y="3882">165.  2017-04-22 12:57:20 +0000      301 bytes  examples/mocha-async-slp/package.json</tspan>
-<tspan x="10" y="3898">166.  2017-04-22 12:57:20 +0000      504 bytes  examples/mocha-async-slp/test.js</tspan>
-<tspan x="10" y="3914">167.  2017-04-22 12:57:20 +0000       83 bytes  examples/mocha-async-thenable/README.md</tspan>
-<tspan x="10" y="3930">168.  2017-04-22 12:57:20 +0000       81 bytes  examples/mocha-async-thenable/bin/example.bat</tspan>
-<tspan x="10" y="3946">169.  2017-04-22 12:57:20 +0000      266 bytes  examples/mocha-async-thenable/bin/example.js</tspan>
-<tspan x="10" y="3962">170.  2017-04-22 12:57:20 +0000       62 bytes  examples/mocha-async-thenable/bin/example.sh</tspan>
-<tspan x="10" y="3978">171.  2017-04-22 12:57:20 +0000     1263 bytes  examples/mocha-async-thenable/bottles-library.js</tspan>
-<tspan x="10" y="3994">172.  2017-04-22 12:57:20 +0000      904 bytes  examples/mocha-async-thenable/features/bottles.f\</tspan>
+<tspan x="10" y="3882">165.  2017-04-25 20:59:41 +0000      301 bytes  examples/mocha-async-slp/package.json</tspan>
+<tspan x="10" y="3898">166.  2017-04-25 20:59:41 +0000      504 bytes  examples/mocha-async-slp/test.js</tspan>
+<tspan x="10" y="3914">167.  2017-04-25 20:59:41 +0000       83 bytes  examples/mocha-async-thenable/README.md</tspan>
+<tspan x="10" y="3930">168.  2017-04-25 20:59:41 +0000       81 bytes  examples/mocha-async-thenable/bin/example.bat</tspan>
+<tspan x="10" y="3946">169.  2017-04-25 20:59:41 +0000      266 bytes  examples/mocha-async-thenable/bin/example.js</tspan>
+<tspan x="10" y="3962">170.  2017-04-25 20:59:41 +0000       62 bytes  examples/mocha-async-thenable/bin/example.sh</tspan>
+<tspan x="10" y="3978">171.  2017-04-25 20:59:41 +0000     1263 bytes  examples/mocha-async-thenable/bottles-library.js</tspan>
+<tspan x="10" y="3994">172.  2017-04-25 20:59:41 +0000      904 bytes  examples/mocha-async-thenable/features/bottles.f\</tspan>
 <tspan x="10" y="4010">eature</tspan>
-<tspan x="10" y="4026">173.  2017-04-22 12:57:20 +0000      312 bytes  examples/mocha-async-thenable/package.json</tspan>
-<tspan x="10" y="4042">174.  2017-04-22 12:57:20 +0000      561 bytes  examples/mocha-async-thenable/test.js</tspan>
-<tspan x="10" y="4058">175.  2017-04-22 12:57:20 +0000       74 bytes  examples/mocha-async/README.md</tspan>
-<tspan x="10" y="4074">176.  2017-04-22 12:57:20 +0000       81 bytes  examples/mocha-async/bin/example.bat</tspan>
-<tspan x="10" y="4090">177.  2017-04-22 12:57:20 +0000      266 bytes  examples/mocha-async/bin/example.js</tspan>
-<tspan x="10" y="4106">178.  2017-04-22 12:57:20 +0000       62 bytes  examples/mocha-async/bin/example.sh</tspan>
-<tspan x="10" y="4122">179.  2017-04-22 12:57:20 +0000     1187 bytes  examples/mocha-async/bottles-library.js</tspan>
-<tspan x="10" y="4138">180.  2017-04-22 12:57:20 +0000      895 bytes  examples/mocha-async/features/bottles.feature</tspan>
-<tspan x="10" y="4154">181.  2017-04-22 12:57:20 +0000      275 bytes  examples/mocha-async/package.json</tspan>
-<tspan x="10" y="4170">182.  2017-04-22 12:57:20 +0000      561 bytes  examples/mocha-async/test.js</tspan>
-<tspan x="10" y="4186">183.  2017-04-22 12:57:20 +0000       76 bytes  examples/mocha-express/README.md</tspan>
-<tspan x="10" y="4202">184.  2017-04-22 12:57:20 +0000      657 bytes  examples/mocha-express/app.js</tspan>
-<tspan x="10" y="4218">185.  2017-04-22 12:57:20 +0000       86 bytes  examples/mocha-express/bin/example.bat</tspan>
-<tspan x="10" y="4234">186.  2017-04-22 12:57:20 +0000      266 bytes  examples/mocha-express/bin/example.js</tspan>
-<tspan x="10" y="4250">187.  2017-04-22 12:57:20 +0000       67 bytes  examples/mocha-express/bin/example.sh</tspan>
-<tspan x="10" y="4266">188.  2017-04-22 12:57:20 +0000       58 bytes  examples/mocha-express/index.js</tspan>
-<tspan x="10" y="4282">189.  2017-04-22 12:57:20 +0000      439 bytes  examples/mocha-express/package.json</tspan>
-<tspan x="10" y="4298">190.  2017-04-22 12:57:20 +0000     1071 bytes  examples/mocha-express/routes/bottles.js</tspan>
-<tspan x="10" y="4314">191.  2017-04-22 12:57:20 +0000      442 bytes  examples/mocha-express/routes/server.js</tspan>
-<tspan x="10" y="4330">192.  2017-04-22 12:57:20 +0000      854 bytes  examples/mocha-express/test/features/bottles.fea\</tspan>
+<tspan x="10" y="4026">173.  2017-04-25 20:59:41 +0000      312 bytes  examples/mocha-async-thenable/package.json</tspan>
+<tspan x="10" y="4042">174.  2017-04-25 20:59:41 +0000      561 bytes  examples/mocha-async-thenable/test.js</tspan>
+<tspan x="10" y="4058">175.  2017-04-25 20:59:41 +0000       74 bytes  examples/mocha-async/README.md</tspan>
+<tspan x="10" y="4074">176.  2017-04-25 20:59:41 +0000       81 bytes  examples/mocha-async/bin/example.bat</tspan>
+<tspan x="10" y="4090">177.  2017-04-25 20:59:41 +0000      266 bytes  examples/mocha-async/bin/example.js</tspan>
+<tspan x="10" y="4106">178.  2017-04-25 20:59:41 +0000       62 bytes  examples/mocha-async/bin/example.sh</tspan>
+<tspan x="10" y="4122">179.  2017-04-25 20:59:41 +0000     1187 bytes  examples/mocha-async/bottles-library.js</tspan>
+<tspan x="10" y="4138">180.  2017-04-25 20:59:41 +0000      895 bytes  examples/mocha-async/features/bottles.feature</tspan>
+<tspan x="10" y="4154">181.  2017-04-25 20:59:41 +0000      275 bytes  examples/mocha-async/package.json</tspan>
+<tspan x="10" y="4170">182.  2017-04-25 20:59:41 +0000      561 bytes  examples/mocha-async/test.js</tspan>
+<tspan x="10" y="4186">183.  2017-04-25 20:59:41 +0000       76 bytes  examples/mocha-express/README.md</tspan>
+<tspan x="10" y="4202">184.  2017-04-25 20:59:41 +0000      657 bytes  examples/mocha-express/app.js</tspan>
+<tspan x="10" y="4218">185.  2017-04-25 20:59:41 +0000       86 bytes  examples/mocha-express/bin/example.bat</tspan>
+<tspan x="10" y="4234">186.  2017-04-25 20:59:41 +0000      266 bytes  examples/mocha-express/bin/example.js</tspan>
+<tspan x="10" y="4250">187.  2017-04-25 20:59:41 +0000       67 bytes  examples/mocha-express/bin/example.sh</tspan>
+<tspan x="10" y="4266">188.  2017-04-25 20:59:41 +0000       58 bytes  examples/mocha-express/index.js</tspan>
+<tspan x="10" y="4282">189.  2017-04-25 20:59:41 +0000      439 bytes  examples/mocha-express/package.json</tspan>
+<tspan x="10" y="4298">190.  2017-04-25 20:59:41 +0000     1071 bytes  examples/mocha-express/routes/bottles.js</tspan>
+<tspan x="10" y="4314">191.  2017-04-25 20:59:41 +0000      442 bytes  examples/mocha-express/routes/server.js</tspan>
+<tspan x="10" y="4330">192.  2017-04-25 20:59:41 +0000      854 bytes  examples/mocha-express/test/features/bottles.fea\</tspan>
 <tspan x="10" y="4346">ture</tspan>
-<tspan x="10" y="4362">193.  2017-04-22 12:57:20 +0000     2072 bytes  examples/mocha-express/test/steps/bottles-librar\</tspan>
+<tspan x="10" y="4362">193.  2017-04-25 20:59:41 +0000     2072 bytes  examples/mocha-express/test/steps/bottles-librar\</tspan>
 <tspan x="10" y="4378">y.js</tspan>
-<tspan x="10" y="4394">194.  2017-04-22 12:57:20 +0000     1389 bytes  examples/mocha-express/test/test.js</tspan>
-<tspan x="10" y="4410">195.  2017-04-22 12:57:20 +0000       85 bytes  examples/mocha-mixed-async-sync/README.md</tspan>
-<tspan x="10" y="4426">196.  2017-04-22 12:57:20 +0000       81 bytes  examples/mocha-mixed-async-sync/bin/example.bat</tspan>
-<tspan x="10" y="4442">197.  2017-04-22 12:57:20 +0000      266 bytes  examples/mocha-mixed-async-sync/bin/example.js</tspan>
-<tspan x="10" y="4458">198.  2017-04-22 12:57:20 +0000       62 bytes  examples/mocha-mixed-async-sync/bin/example.sh</tspan>
-<tspan x="10" y="4474">199.  2017-04-22 12:57:20 +0000     1115 bytes  examples/mocha-mixed-async-sync/bottles-library.\</tspan>
+<tspan x="10" y="4394">194.  2017-04-25 20:59:41 +0000     1389 bytes  examples/mocha-express/test/test.js</tspan>
+<tspan x="10" y="4410">195.  2017-04-25 20:59:41 +0000       85 bytes  examples/mocha-mixed-async-sync/README.md</tspan>
+<tspan x="10" y="4426">196.  2017-04-25 20:59:41 +0000       81 bytes  examples/mocha-mixed-async-sync/bin/example.bat</tspan>
+<tspan x="10" y="4442">197.  2017-04-25 20:59:41 +0000      266 bytes  examples/mocha-mixed-async-sync/bin/example.js</tspan>
+<tspan x="10" y="4458">198.  2017-04-25 20:59:41 +0000       62 bytes  examples/mocha-mixed-async-sync/bin/example.sh</tspan>
+<tspan x="10" y="4474">199.  2017-04-25 20:59:41 +0000     1115 bytes  examples/mocha-mixed-async-sync/bottles-library.\</tspan>
 <tspan x="10" y="4490">js</tspan>
-<tspan x="10" y="4506">200.  2017-04-22 12:57:20 +0000      917 bytes  examples/mocha-mixed-async-sync/features/bottles\</tspan>
+<tspan x="10" y="4506">200.  2017-04-25 20:59:41 +0000      917 bytes  examples/mocha-mixed-async-sync/features/bottles\</tspan>
 <tspan x="10" y="4522">.feature</tspan>
-<tspan x="10" y="4538">201.  2017-04-22 12:57:20 +0000      314 bytes  examples/mocha-mixed-async-sync/package.json</tspan>
-<tspan x="10" y="4554">202.  2017-04-22 12:57:20 +0000      561 bytes  examples/mocha-mixed-async-sync/test.js</tspan>
-<tspan x="10" y="4570">203.  2017-04-22 12:57:20 +0000       82 bytes  examples/mocha-multi-library/README.md</tspan>
-<tspan x="10" y="4586">204.  2017-04-22 12:57:20 +0000       81 bytes  examples/mocha-multi-library/bin/example.bat</tspan>
-<tspan x="10" y="4602">205.  2017-04-22 12:57:20 +0000      266 bytes  examples/mocha-multi-library/bin/example.js</tspan>
-<tspan x="10" y="4618">206.  2017-04-22 12:57:20 +0000       62 bytes  examples/mocha-multi-library/bin/example.sh</tspan>
-<tspan x="10" y="4634">207.  2017-04-22 12:57:20 +0000      891 bytes  examples/mocha-multi-library/features/bottles.fe\</tspan>
+<tspan x="10" y="4538">201.  2017-04-25 20:59:41 +0000      314 bytes  examples/mocha-mixed-async-sync/package.json</tspan>
+<tspan x="10" y="4554">202.  2017-04-25 20:59:41 +0000      561 bytes  examples/mocha-mixed-async-sync/test.js</tspan>
+<tspan x="10" y="4570">203.  2017-04-25 20:59:41 +0000       82 bytes  examples/mocha-multi-library/README.md</tspan>
+<tspan x="10" y="4586">204.  2017-04-25 20:59:41 +0000       81 bytes  examples/mocha-multi-library/bin/example.bat</tspan>
+<tspan x="10" y="4602">205.  2017-04-25 20:59:41 +0000      266 bytes  examples/mocha-multi-library/bin/example.js</tspan>
+<tspan x="10" y="4618">206.  2017-04-25 20:59:41 +0000       62 bytes  examples/mocha-multi-library/bin/example.sh</tspan>
+<tspan x="10" y="4634">207.  2017-04-25 20:59:41 +0000      891 bytes  examples/mocha-multi-library/features/bottles.fe\</tspan>
 <tspan x="10" y="4650">ature</tspan>
-<tspan x="10" y="4666">208.  2017-04-22 12:57:20 +0000      858 bytes  examples/mocha-multi-library/features/vases.feat\</tspan>
+<tspan x="10" y="4666">208.  2017-04-25 20:59:41 +0000      858 bytes  examples/mocha-multi-library/features/vases.feat\</tspan>
 <tspan x="10" y="4682">ure</tspan>
-<tspan x="10" y="4698">209.  2017-04-22 12:57:20 +0000      219 bytes  examples/mocha-multi-library/lib/Wall.js</tspan>
-<tspan x="10" y="4714">210.  2017-04-22 12:57:20 +0000      944 bytes  examples/mocha-multi-library/lib/bottle-steps.js</tspan>
-<tspan x="10" y="4730">211.  2017-04-22 12:57:20 +0000      331 bytes  examples/mocha-multi-library/lib/common-steps.js</tspan>
-<tspan x="10" y="4746">212.  2017-04-22 12:57:20 +0000      170 bytes  examples/mocha-multi-library/lib/dictionary.js</tspan>
-<tspan x="10" y="4762">213.  2017-04-22 12:57:20 +0000      925 bytes  examples/mocha-multi-library/lib/vase-steps.js</tspan>
-<tspan x="10" y="4778">214.  2017-04-22 12:57:20 +0000      309 bytes  examples/mocha-multi-library/package.json</tspan>
-<tspan x="10" y="4794">215.  2017-04-22 12:57:20 +0000     1179 bytes  examples/mocha-multi-library/test.js</tspan>
-<tspan x="10" y="4810">216.  2017-04-22 12:57:20 +0000       73 bytes  examples/mocha-sync/README.md</tspan>
-<tspan x="10" y="4826">217.  2017-04-22 12:57:20 +0000       81 bytes  examples/mocha-sync/bin/example.bat</tspan>
-<tspan x="10" y="4842">218.  2017-04-22 12:57:20 +0000      266 bytes  examples/mocha-sync/bin/example.js</tspan>
-<tspan x="10" y="4858">219.  2017-04-22 12:57:20 +0000       62 bytes  examples/mocha-sync/bin/example.sh</tspan>
-<tspan x="10" y="4874">220.  2017-04-22 12:57:20 +0000     1027 bytes  examples/mocha-sync/bottles-library.js</tspan>
-<tspan x="10" y="4890">221.  2017-04-22 12:57:20 +0000      867 bytes  examples/mocha-sync/features/bottles.feature</tspan>
-<tspan x="10" y="4906">222.  2017-04-22 12:57:20 +0000      277 bytes  examples/mocha-sync/package.json</tspan>
-<tspan x="10" y="4922">223.  2017-04-22 12:57:20 +0000      548 bytes  examples/mocha-sync/test.js</tspan>
-<tspan x="10" y="4938">224.  2017-04-22 12:57:20 +0000       81 bytes  examples/multiline-examples-table/bin/example.ba\</tspan>
+<tspan x="10" y="4698">209.  2017-04-25 20:59:41 +0000      219 bytes  examples/mocha-multi-library/lib/Wall.js</tspan>
+<tspan x="10" y="4714">210.  2017-04-25 20:59:41 +0000      944 bytes  examples/mocha-multi-library/lib/bottle-steps.js</tspan>
+<tspan x="10" y="4730">211.  2017-04-25 20:59:41 +0000      331 bytes  examples/mocha-multi-library/lib/common-steps.js</tspan>
+<tspan x="10" y="4746">212.  2017-04-25 20:59:41 +0000      170 bytes  examples/mocha-multi-library/lib/dictionary.js</tspan>
+<tspan x="10" y="4762">213.  2017-04-25 20:59:41 +0000      925 bytes  examples/mocha-multi-library/lib/vase-steps.js</tspan>
+<tspan x="10" y="4778">214.  2017-04-25 20:59:41 +0000      309 bytes  examples/mocha-multi-library/package.json</tspan>
+<tspan x="10" y="4794">215.  2017-04-25 20:59:41 +0000     1179 bytes  examples/mocha-multi-library/test.js</tspan>
+<tspan x="10" y="4810">216.  2017-04-25 20:59:41 +0000       73 bytes  examples/mocha-sync/README.md</tspan>
+<tspan x="10" y="4826">217.  2017-04-25 20:59:41 +0000       81 bytes  examples/mocha-sync/bin/example.bat</tspan>
+<tspan x="10" y="4842">218.  2017-04-25 20:59:41 +0000      266 bytes  examples/mocha-sync/bin/example.js</tspan>
+<tspan x="10" y="4858">219.  2017-04-25 20:59:41 +0000       62 bytes  examples/mocha-sync/bin/example.sh</tspan>
+<tspan x="10" y="4874">220.  2017-04-25 20:59:41 +0000     1027 bytes  examples/mocha-sync/bottles-library.js</tspan>
+<tspan x="10" y="4890">221.  2017-04-25 20:59:41 +0000      867 bytes  examples/mocha-sync/features/bottles.feature</tspan>
+<tspan x="10" y="4906">222.  2017-04-25 20:59:41 +0000      277 bytes  examples/mocha-sync/package.json</tspan>
+<tspan x="10" y="4922">223.  2017-04-25 20:59:41 +0000      548 bytes  examples/mocha-sync/test.js</tspan>
+<tspan x="10" y="4938">224.  2017-04-25 20:59:41 +0000       81 bytes  examples/multiline-examples-table/bin/example.ba\</tspan>
 <tspan x="10" y="4954">t</tspan>
-<tspan x="10" y="4970">225.  2017-04-22 12:57:20 +0000      266 bytes  examples/multiline-examples-table/bin/example.js</tspan>
-<tspan x="10" y="4986">226.  2017-04-22 12:57:20 +0000       62 bytes  examples/multiline-examples-table/bin/example.sh</tspan>
-<tspan x="10" y="5002">227.  2017-04-22 12:57:20 +0000      892 bytes  examples/multiline-examples-table/features/trans\</tspan>
+<tspan x="10" y="4970">225.  2017-04-25 20:59:41 +0000      266 bytes  examples/multiline-examples-table/bin/example.js</tspan>
+<tspan x="10" y="4986">226.  2017-04-25 20:59:41 +0000       62 bytes  examples/multiline-examples-table/bin/example.sh</tspan>
+<tspan x="10" y="5002">227.  2017-04-25 20:59:41 +0000      892 bytes  examples/multiline-examples-table/features/trans\</tspan>
 <tspan x="10" y="5018">pile.feature</tspan>
-<tspan x="10" y="5034">228.  2017-04-22 12:57:20 +0000      411 bytes  examples/multiline-examples-table/package.json</tspan>
-<tspan x="10" y="5050">229.  2017-04-22 12:57:20 +0000      616 bytes  examples/multiline-examples-table/test.js</tspan>
-<tspan x="10" y="5066">230.  2017-04-22 12:57:20 +0000     1454 bytes  examples/multiline-examples-table/transpile-libr\</tspan>
+<tspan x="10" y="5034">228.  2017-04-25 20:59:41 +0000      411 bytes  examples/multiline-examples-table/package.json</tspan>
+<tspan x="10" y="5050">229.  2017-04-25 20:59:41 +0000      616 bytes  examples/multiline-examples-table/test.js</tspan>
+<tspan x="10" y="5066">230.  2017-04-25 20:59:41 +0000     1454 bytes  examples/multiline-examples-table/transpile-libr\</tspan>
 <tspan x="10" y="5082">ary.js</tspan>
-<tspan x="10" y="5098">231.  2017-04-22 12:57:20 +0000       81 bytes  examples/multiline-steps/bin/example.bat</tspan>
-<tspan x="10" y="5114">232.  2017-04-22 12:57:20 +0000      266 bytes  examples/multiline-steps/bin/example.js</tspan>
-<tspan x="10" y="5130">233.  2017-04-22 12:57:20 +0000       62 bytes  examples/multiline-steps/bin/example.sh</tspan>
-<tspan x="10" y="5146">234.  2017-04-22 12:57:20 +0000      983 bytes  examples/multiline-steps/csv-library.js</tspan>
-<tspan x="10" y="5162">235.  2017-04-22 12:57:20 +0000      633 bytes  examples/multiline-steps/features/multiline-step\</tspan>
+<tspan x="10" y="5098">231.  2017-04-25 20:59:41 +0000       81 bytes  examples/multiline-steps/bin/example.bat</tspan>
+<tspan x="10" y="5114">232.  2017-04-25 20:59:41 +0000      266 bytes  examples/multiline-steps/bin/example.js</tspan>
+<tspan x="10" y="5130">233.  2017-04-25 20:59:41 +0000       62 bytes  examples/multiline-steps/bin/example.sh</tspan>
+<tspan x="10" y="5146">234.  2017-04-25 20:59:41 +0000      983 bytes  examples/multiline-steps/csv-library.js</tspan>
+<tspan x="10" y="5162">235.  2017-04-25 20:59:41 +0000      633 bytes  examples/multiline-steps/features/multiline-step\</tspan>
 <tspan x="10" y="5178">s.feature</tspan>
-<tspan x="10" y="5194">236.  2017-04-22 12:57:20 +0000      398 bytes  examples/multiline-steps/package.json</tspan>
-<tspan x="10" y="5210">237.  2017-04-22 12:57:20 +0000      682 bytes  examples/multiline-steps/poem-library.js</tspan>
-<tspan x="10" y="5226">238.  2017-04-22 12:57:20 +0000      666 bytes  examples/multiline-steps/test.js</tspan>
-<tspan x="10" y="5242">239.  2017-04-22 12:57:20 +0000     1454 bytes  examples/multiline-steps/transpile-library.js</tspan>
-<tspan x="10" y="5258">240.  2017-04-22 12:57:20 +0000     1630 bytes  examples/nightwatch/nightwatch.conf.js</tspan>
-<tspan x="10" y="5274">241.  2017-04-22 12:57:20 +0000      740 bytes  examples/nightwatch/package.json</tspan>
-<tspan x="10" y="5290">242.  2017-04-22 12:57:20 +0000      203 bytes  examples/nightwatch/tests/converters/filter.js</tspan>
-<tspan x="10" y="5306">243.  2017-04-22 12:57:20 +0000       50 bytes  examples/nightwatch/tests/converters/index.js</tspan>
-<tspan x="10" y="5322">244.  2017-04-22 12:57:20 +0000      705 bytes  examples/nightwatch/tests/features/job-search.sp\</tspan>
+<tspan x="10" y="5194">236.  2017-04-25 20:59:41 +0000      398 bytes  examples/multiline-steps/package.json</tspan>
+<tspan x="10" y="5210">237.  2017-04-25 20:59:41 +0000      682 bytes  examples/multiline-steps/poem-library.js</tspan>
+<tspan x="10" y="5226">238.  2017-04-25 20:59:41 +0000      666 bytes  examples/multiline-steps/test.js</tspan>
+<tspan x="10" y="5242">239.  2017-04-25 20:59:41 +0000     1454 bytes  examples/multiline-steps/transpile-library.js</tspan>
+<tspan x="10" y="5258">240.  2017-04-25 20:59:41 +0000     1630 bytes  examples/nightwatch/nightwatch.conf.js</tspan>
+<tspan x="10" y="5274">241.  2017-04-25 20:59:41 +0000      740 bytes  examples/nightwatch/package.json</tspan>
+<tspan x="10" y="5290">242.  2017-04-25 20:59:41 +0000      203 bytes  examples/nightwatch/tests/converters/filter.js</tspan>
+<tspan x="10" y="5306">243.  2017-04-25 20:59:41 +0000       50 bytes  examples/nightwatch/tests/converters/index.js</tspan>
+<tspan x="10" y="5322">244.  2017-04-25 20:59:41 +0000      705 bytes  examples/nightwatch/tests/features/job-search.sp\</tspan>
 <tspan x="10" y="5338">ec</tspan>
-<tspan x="10" y="5354">245.  2017-04-22 12:57:20 +0000     1013 bytes  examples/nightwatch/tests/pages/jobsHome.js</tspan>
-<tspan x="10" y="5370">246.  2017-04-22 12:57:20 +0000     1739 bytes  examples/nightwatch/tests/pages/jobsSearch.js</tspan>
-<tspan x="10" y="5386">247.  2017-04-22 12:57:20 +0000     1614 bytes  examples/nightwatch/tests/runner/index.js</tspan>
-<tspan x="10" y="5402">248.  2017-04-22 12:57:20 +0000      217 bytes  examples/nightwatch/tests/steps/dictionary.js</tspan>
-<tspan x="10" y="5418">249.  2017-04-22 12:57:20 +0000      437 bytes  examples/nightwatch/tests/steps/jobsHome.js</tspan>
-<tspan x="10" y="5434">250.  2017-04-22 12:57:20 +0000      934 bytes  examples/nightwatch/tests/steps/jobsSearch.js</tspan>
-<tspan x="10" y="5450">251.  2017-04-22 12:57:20 +0000       71 bytes  examples/nodeunit/README.md</tspan>
-<tspan x="10" y="5466">252.  2017-04-22 12:57:20 +0000       68 bytes  examples/nodeunit/bin/example.bat</tspan>
-<tspan x="10" y="5482">253.  2017-04-22 12:57:20 +0000      266 bytes  examples/nodeunit/bin/example.js</tspan>
-<tspan x="10" y="5498">254.  2017-04-22 12:57:20 +0000       47 bytes  examples/nodeunit/bin/example.sh</tspan>
-<tspan x="10" y="5514">255.  2017-04-22 12:57:20 +0000     1100 bytes  examples/nodeunit/bottles-library.js</tspan>
-<tspan x="10" y="5530">256.  2017-04-22 12:57:20 +0000      375 bytes  examples/nodeunit/features/bottles.feature</tspan>
-<tspan x="10" y="5546">257.  2017-04-22 12:57:20 +0000      307 bytes  examples/nodeunit/package.json</tspan>
-<tspan x="10" y="5562">258.  2017-04-22 12:57:20 +0000      625 bytes  examples/nodeunit/test.js</tspan>
-<tspan x="10" y="5578">259.  2017-04-22 12:57:20 +0000       35 bytes  examples/qunit/README.md</tspan>
-<tspan x="10" y="5594">260.  2017-04-22 12:57:20 +0000       49 bytes  examples/qunit/bin/example.bat</tspan>
-<tspan x="10" y="5610">261.  2017-04-22 12:57:20 +0000      266 bytes  examples/qunit/bin/example.js</tspan>
-<tspan x="10" y="5626">262.  2017-04-22 12:57:20 +0000       27 bytes  examples/qunit/bin/example.sh</tspan>
-<tspan x="10" y="5642">263.  2017-04-22 12:57:20 +0000      905 bytes  examples/qunit/bottles-library.js</tspan>
-<tspan x="10" y="5658">264.  2017-04-22 12:57:20 +0000     4578 bytes  examples/qunit/lib/qunit-1.10.0.css</tspan>
-<tspan x="10" y="5674">265.  2017-04-22 12:57:20 +0000    51709 bytes  examples/qunit/lib/qunit-1.10.0.js</tspan>
-<tspan x="10" y="5690">266.  2017-04-22 12:57:20 +0000      185 bytes  examples/qunit/package.json</tspan>
-<tspan x="10" y="5706">267.  2017-04-22 12:57:20 +0000     1525 bytes  examples/qunit/test.html</tspan>
-<tspan x="10" y="5722">268.  2017-04-22 12:57:20 +0000       82 bytes  examples/report-unused-steps/README.md</tspan>
-<tspan x="10" y="5738">269.  2017-04-22 12:57:20 +0000       81 bytes  examples/report-unused-steps/bin/example.bat</tspan>
-<tspan x="10" y="5754">270.  2017-04-22 12:57:20 +0000      266 bytes  examples/report-unused-steps/bin/example.js</tspan>
-<tspan x="10" y="5770">271.  2017-04-22 12:57:20 +0000       62 bytes  examples/report-unused-steps/bin/example.sh</tspan>
-<tspan x="10" y="5786">272.  2017-04-22 12:57:20 +0000     1281 bytes  examples/report-unused-steps/bottles-library.js</tspan>
-<tspan x="10" y="5802">273.  2017-04-22 12:57:20 +0000      895 bytes  examples/report-unused-steps/features/bottles.fe\</tspan>
+<tspan x="10" y="5354">245.  2017-04-25 20:59:41 +0000     1013 bytes  examples/nightwatch/tests/pages/jobsHome.js</tspan>
+<tspan x="10" y="5370">246.  2017-04-25 20:59:41 +0000     1739 bytes  examples/nightwatch/tests/pages/jobsSearch.js</tspan>
+<tspan x="10" y="5386">247.  2017-04-25 20:59:41 +0000     1614 bytes  examples/nightwatch/tests/runner/index.js</tspan>
+<tspan x="10" y="5402">248.  2017-04-25 20:59:41 +0000      217 bytes  examples/nightwatch/tests/steps/dictionary.js</tspan>
+<tspan x="10" y="5418">249.  2017-04-25 20:59:41 +0000      437 bytes  examples/nightwatch/tests/steps/jobsHome.js</tspan>
+<tspan x="10" y="5434">250.  2017-04-25 20:59:41 +0000      934 bytes  examples/nightwatch/tests/steps/jobsSearch.js</tspan>
+<tspan x="10" y="5450">251.  2017-04-25 20:59:41 +0000       71 bytes  examples/nodeunit/README.md</tspan>
+<tspan x="10" y="5466">252.  2017-04-25 20:59:41 +0000       68 bytes  examples/nodeunit/bin/example.bat</tspan>
+<tspan x="10" y="5482">253.  2017-04-25 20:59:41 +0000      266 bytes  examples/nodeunit/bin/example.js</tspan>
+<tspan x="10" y="5498">254.  2017-04-25 20:59:41 +0000       47 bytes  examples/nodeunit/bin/example.sh</tspan>
+<tspan x="10" y="5514">255.  2017-04-25 20:59:41 +0000     1100 bytes  examples/nodeunit/bottles-library.js</tspan>
+<tspan x="10" y="5530">256.  2017-04-25 20:59:41 +0000      375 bytes  examples/nodeunit/features/bottles.feature</tspan>
+<tspan x="10" y="5546">257.  2017-04-25 20:59:41 +0000      307 bytes  examples/nodeunit/package.json</tspan>
+<tspan x="10" y="5562">258.  2017-04-25 20:59:41 +0000      625 bytes  examples/nodeunit/test.js</tspan>
+<tspan x="10" y="5578">259.  2017-04-25 20:59:41 +0000       35 bytes  examples/qunit/README.md</tspan>
+<tspan x="10" y="5594">260.  2017-04-25 20:59:41 +0000       49 bytes  examples/qunit/bin/example.bat</tspan>
+<tspan x="10" y="5610">261.  2017-04-25 20:59:41 +0000      266 bytes  examples/qunit/bin/example.js</tspan>
+<tspan x="10" y="5626">262.  2017-04-25 20:59:41 +0000       27 bytes  examples/qunit/bin/example.sh</tspan>
+<tspan x="10" y="5642">263.  2017-04-25 20:59:41 +0000      905 bytes  examples/qunit/bottles-library.js</tspan>
+<tspan x="10" y="5658">264.  2017-04-25 20:59:41 +0000     4578 bytes  examples/qunit/lib/qunit-1.10.0.css</tspan>
+<tspan x="10" y="5674">265.  2017-04-25 20:59:41 +0000    51709 bytes  examples/qunit/lib/qunit-1.10.0.js</tspan>
+<tspan x="10" y="5690">266.  2017-04-25 20:59:41 +0000      185 bytes  examples/qunit/package.json</tspan>
+<tspan x="10" y="5706">267.  2017-04-25 20:59:41 +0000     1525 bytes  examples/qunit/test.html</tspan>
+<tspan x="10" y="5722">268.  2017-04-25 20:59:41 +0000       82 bytes  examples/report-unused-steps/README.md</tspan>
+<tspan x="10" y="5738">269.  2017-04-25 20:59:41 +0000       81 bytes  examples/report-unused-steps/bin/example.bat</tspan>
+<tspan x="10" y="5754">270.  2017-04-25 20:59:41 +0000      266 bytes  examples/report-unused-steps/bin/example.js</tspan>
+<tspan x="10" y="5770">271.  2017-04-25 20:59:41 +0000       62 bytes  examples/report-unused-steps/bin/example.sh</tspan>
+<tspan x="10" y="5786">272.  2017-04-25 20:59:41 +0000     1281 bytes  examples/report-unused-steps/bottles-library.js</tspan>
+<tspan x="10" y="5802">273.  2017-04-25 20:59:41 +0000      895 bytes  examples/report-unused-steps/features/bottles.fe\</tspan>
 <tspan x="10" y="5818">ature</tspan>
-<tspan x="10" y="5834">274.  2017-04-22 12:57:20 +0000      309 bytes  examples/report-unused-steps/package.json</tspan>
-<tspan x="10" y="5850">275.  2017-04-22 12:57:20 +0000      960 bytes  examples/report-unused-steps/test.js</tspan>
-<tspan x="10" y="5866">276.  2017-04-22 12:57:20 +0000       81 bytes  examples/resuable-scenarios/README.md</tspan>
-<tspan x="10" y="5882">277.  2017-04-22 12:57:20 +0000       81 bytes  examples/resuable-scenarios/bin/example.bat</tspan>
-<tspan x="10" y="5898">278.  2017-04-22 12:57:20 +0000      266 bytes  examples/resuable-scenarios/bin/example.js</tspan>
-<tspan x="10" y="5914">279.  2017-04-22 12:57:20 +0000       62 bytes  examples/resuable-scenarios/bin/example.sh</tspan>
-<tspan x="10" y="5930">280.  2017-04-22 12:57:20 +0000     1619 bytes  examples/resuable-scenarios/bottles-library.js</tspan>
-<tspan x="10" y="5946">281.  2017-04-22 12:57:20 +0000      201 bytes  examples/resuable-scenarios/features/bottles.fea\</tspan>
+<tspan x="10" y="5834">274.  2017-04-25 20:59:41 +0000      309 bytes  examples/report-unused-steps/package.json</tspan>
+<tspan x="10" y="5850">275.  2017-04-25 20:59:41 +0000      960 bytes  examples/report-unused-steps/test.js</tspan>
+<tspan x="10" y="5866">276.  2017-04-25 20:59:41 +0000       81 bytes  examples/resuable-scenarios/README.md</tspan>
+<tspan x="10" y="5882">277.  2017-04-25 20:59:41 +0000       81 bytes  examples/resuable-scenarios/bin/example.bat</tspan>
+<tspan x="10" y="5898">278.  2017-04-25 20:59:41 +0000      266 bytes  examples/resuable-scenarios/bin/example.js</tspan>
+<tspan x="10" y="5914">279.  2017-04-25 20:59:41 +0000       62 bytes  examples/resuable-scenarios/bin/example.sh</tspan>
+<tspan x="10" y="5930">280.  2017-04-25 20:59:41 +0000     1619 bytes  examples/resuable-scenarios/bottles-library.js</tspan>
+<tspan x="10" y="5946">281.  2017-04-25 20:59:41 +0000      201 bytes  examples/resuable-scenarios/features/bottles.fea\</tspan>
 <tspan x="10" y="5962">ture</tspan>
-<tspan x="10" y="5978">282.  2017-04-22 12:57:20 +0000      297 bytes  examples/resuable-scenarios/package.json</tspan>
-<tspan x="10" y="5994">283.  2017-04-22 12:57:20 +0000      606 bytes  examples/resuable-scenarios/test.js</tspan>
-<tspan x="10" y="6010">284.  2017-04-22 12:57:20 +0000       69 bytes  examples/zombie/README.md</tspan>
-<tspan x="10" y="6026">285.  2017-04-22 12:57:20 +0000       69 bytes  examples/zombie/bin/example.bat</tspan>
-<tspan x="10" y="6042">286.  2017-04-22 12:57:20 +0000      266 bytes  examples/zombie/bin/example.js</tspan>
-<tspan x="10" y="6058">287.  2017-04-22 12:57:20 +0000       78 bytes  examples/zombie/bin/example.sh</tspan>
-<tspan x="10" y="6074">288.  2017-04-22 12:57:20 +0000      645 bytes  examples/zombie/features/google.feature</tspan>
-<tspan x="10" y="6090">289.  2017-04-22 12:57:20 +0000     1527 bytes  examples/zombie/google-library.js</tspan>
-<tspan x="10" y="6106">290.  2017-04-22 12:57:20 +0000      347 bytes  examples/zombie/package.json</tspan>
-<tspan x="10" y="6122">291.  2017-04-22 12:57:20 +0000      503 bytes  examples/zombie/test.js</tspan>
-<tspan x="10" y="6138">292.  2017-04-22 12:57:20 +0000     1208 bytes  karma.conf.js</tspan>
-<tspan x="10" y="6154">293.  2017-04-22 12:57:20 +0000     4151 bytes  lib/Array.js</tspan>
-<tspan x="10" y="6170">294.  2017-04-22 12:57:20 +0000     2168 bytes  lib/Competition.js</tspan>
-<tspan x="10" y="6186">295.  2017-04-22 12:57:20 +0000      772 bytes  lib/Context.js</tspan>
-<tspan x="10" y="6202">296.  2017-04-22 12:57:20 +0000     4522 bytes  lib/Dictionary.js</tspan>
-<tspan x="10" y="6218">297.  2017-04-22 12:57:20 +0000     1417 bytes  lib/EventBus.js</tspan>
-<tspan x="10" y="6234">298.  2017-04-22 12:57:20 +0000      268 bytes  lib/FeatureFileSearch.js</tspan>
-<tspan x="10" y="6250">299.  2017-04-22 12:57:20 +0000     1725 bytes  lib/FileSearch.js</tspan>
-<tspan x="10" y="6266">300.  2017-04-22 12:57:20 +0000     2468 bytes  lib/Interpreter.js</tspan>
-<tspan x="10" y="6282">301.  2017-04-22 12:57:20 +0000     1213 bytes  lib/Library.js</tspan>
-<tspan x="10" y="6298">302.  2017-04-22 12:57:20 +0000     3051 bytes  lib/Macro.js</tspan>
-<tspan x="10" y="6314">303.  2017-04-22 12:57:20 +0000      941 bytes  lib/Platform.js</tspan>
-<tspan x="10" y="6330">304.  2017-04-22 12:57:20 +0000     1581 bytes  lib/RegularExpression.js</tspan>
-<tspan x="10" y="6346">305.  2017-04-22 12:57:20 +0000      514 bytes  lib/StringUtils.js</tspan>
-<tspan x="10" y="6362">306.  2017-04-22 12:57:20 +0000     1183 bytes  lib/Yadda.js</tspan>
-<tspan x="10" y="6378">307.  2017-04-22 12:57:20 +0000      251 bytes  lib/converters/date-converter.js</tspan>
-<tspan x="10" y="6394">308.  2017-04-22 12:57:20 +0000      243 bytes  lib/converters/float-converter.js</tspan>
-<tspan x="10" y="6410">309.  2017-04-22 12:57:20 +0000      296 bytes  lib/converters/index.js</tspan>
-<tspan x="10" y="6426">310.  2017-04-22 12:57:20 +0000      246 bytes  lib/converters/integer-converter.js</tspan>
-<tspan x="10" y="6442">311.  2017-04-22 12:57:20 +0000      116 bytes  lib/converters/list-converter.js</tspan>
-<tspan x="10" y="6458">312.  2017-04-22 12:57:20 +0000      112 bytes  lib/converters/pass-through-converter.js</tspan>
-<tspan x="10" y="6474">313.  2017-04-22 12:57:20 +0000     2217 bytes  lib/converters/table-converter.js</tspan>
-<tspan x="10" y="6490">314.  2017-04-22 12:57:20 +0000     1148 bytes  lib/fn.js</tspan>
-<tspan x="10" y="6506">315.  2017-04-22 12:57:20 +0000      879 bytes  lib/index.js</tspan>
-<tspan x="10" y="6522">316.  2017-04-22 12:57:20 +0000      907 bytes  lib/localisation/Chinese.js</tspan>
-<tspan x="10" y="6538">317.  2017-04-22 12:57:20 +0000      658 bytes  lib/localisation/Dutch.js</tspan>
-<tspan x="10" y="6554">318.  2017-04-22 12:57:20 +0000      624 bytes  lib/localisation/English.js</tspan>
-<tspan x="10" y="6570">319.  2017-04-22 12:57:20 +0000     1331 bytes  lib/localisation/French.js</tspan>
-<tspan x="10" y="6586">320.  2017-04-22 12:57:20 +0000      791 bytes  lib/localisation/German.js</tspan>
-<tspan x="10" y="6602">321.  2017-04-22 12:57:20 +0000     1386 bytes  lib/localisation/Language.js</tspan>
-<tspan x="10" y="6618">322.  2017-04-22 12:57:20 +0000      796 bytes  lib/localisation/Norwegian.js</tspan>
-<tspan x="10" y="6634">323.  2017-04-22 12:57:20 +0000      843 bytes  lib/localisation/Pirate.js</tspan>
-<tspan x="10" y="6650">324.  2017-04-22 12:57:20 +0000     1238 bytes  lib/localisation/Polish.js</tspan>
-<tspan x="10" y="6666">325.  2017-04-22 12:57:20 +0000     1178 bytes  lib/localisation/Portuguese.js</tspan>
-<tspan x="10" y="6682">326.  2017-04-22 12:57:20 +0000      770 bytes  lib/localisation/Russian.js</tspan>
-<tspan x="10" y="6698">327.  2017-04-22 12:57:20 +0000     1130 bytes  lib/localisation/Spanish.js</tspan>
-<tspan x="10" y="6714">328.  2017-04-22 12:57:20 +0000      982 bytes  lib/localisation/Ukrainian.js</tspan>
-<tspan x="10" y="6730">329.  2017-04-22 12:57:20 +0000      530 bytes  lib/localisation/index.js</tspan>
-<tspan x="10" y="6746">330.  2017-04-22 12:57:20 +0000      423 bytes  lib/parsers/FeatureFileParser.js</tspan>
-<tspan x="10" y="6762">331.  2017-04-22 12:57:20 +0000    21051 bytes  lib/parsers/FeatureParser.js</tspan>
-<tspan x="10" y="6778">332.  2017-04-22 12:57:20 +0000      465 bytes  lib/parsers/StepParser.js</tspan>
-<tspan x="10" y="6794">333.  2017-04-22 12:57:20 +0000      179 bytes  lib/parsers/index.js</tspan>
-<tspan x="10" y="6810">334.  2017-04-22 12:57:20 +0000      769 bytes  lib/plugins/CasperPlugin.js</tspan>
-<tspan x="10" y="6826">335.  2017-04-22 12:57:20 +0000      278 bytes  lib/plugins/index.js</tspan>
-<tspan x="10" y="6842">336.  2017-04-22 12:57:20 +0000     2356 bytes  lib/plugins/mocha/BasePlugin.js</tspan>
-<tspan x="10" y="6858">337.  2017-04-22 12:57:20 +0000      954 bytes  lib/plugins/mocha/ScenarioLevelPlugin.js</tspan>
-<tspan x="10" y="6874">338.  2017-04-22 12:57:20 +0000     1846 bytes  lib/plugins/mocha/StepLevelPlugin.js</tspan>
-<tspan x="10" y="6890">339.  2017-04-22 12:57:20 +0000     1932 bytes  lib/scores/LevenshteinDistanceScore.js</tspan>
-<tspan x="10" y="6906">340.  2017-04-22 12:57:20 +0000      591 bytes  lib/scores/MultiScore.js</tspan>
-<tspan x="10" y="6922">341.  2017-04-22 12:57:20 +0000      414 bytes  lib/scores/SameLibraryScore.js</tspan>
-<tspan x="10" y="6938">342.  2017-04-22 12:57:20 +0000     1048 bytes  lib/shims/index.js</tspan>
-<tspan x="10" y="6954">343.  2017-04-22 12:57:20 +0000     5048 bytes  lib/shims/karma-fs.js</tspan>
-<tspan x="10" y="6970">344.  2017-04-22 12:57:20 +0000      473 bytes  lib/shims/karma-path.js</tspan>
-<tspan x="10" y="6986">345.  2017-04-22 12:57:20 +0000      213 bytes  lib/shims/karma-process.js</tspan>
-<tspan x="10" y="7002">346.  2017-04-22 12:57:20 +0000      578 bytes  lib/shims/phantom-fs.js</tspan>
-<tspan x="10" y="7018">347.  2017-04-22 12:57:20 +0000      496 bytes  lib/shims/phantom-path.js</tspan>
-<tspan x="10" y="7034">348.  2017-04-22 12:57:20 +0000      313 bytes  lib/shims/phantom-process.js</tspan>
-<tspan x="10" y="7050">349.  2017-04-22 12:57:20 +0000     3131 bytes  package.json</tspan>
-<tspan x="10" y="7066">350.  2017-04-22 12:57:20 +0000     1282 bytes  test/ArrayTests.js</tspan>
-<tspan x="10" y="7082">351.  2017-04-22 12:57:20 +0000     3717 bytes  test/CompetitionTests.js</tspan>
-<tspan x="10" y="7098">352.  2017-04-22 12:57:20 +0000     1092 bytes  test/ContextTests.js</tspan>
-<tspan x="10" y="7114">353.  2017-04-22 12:57:20 +0000      212 bytes  test/Counter.js</tspan>
-<tspan x="10" y="7130">354.  2017-04-22 12:57:20 +0000     7119 bytes  test/DictionaryTests.js</tspan>
-<tspan x="10" y="7146">355.  2017-04-22 12:57:20 +0000     2185 bytes  test/EventBusTests.js</tspan>
-<tspan x="10" y="7162">356.  2017-04-22 12:57:20 +0000      660 bytes  test/FeatureFileSearchTests.js</tspan>
-<tspan x="10" y="7178">357.  2017-04-22 12:57:20 +0000    28201 bytes  test/FeatureParserTests.js</tspan>
-<tspan x="10" y="7194">358.  2017-04-22 12:57:20 +0000     1407 bytes  test/FileSearchTests.js</tspan>
-<tspan x="10" y="7210">359.  2017-04-22 12:57:20 +0000     1128 bytes  test/FunctionalTests.js</tspan>
-<tspan x="10" y="7226">360.  2017-04-22 12:57:20 +0000     6326 bytes  test/InterpreterTests.js</tspan>
-<tspan x="10" y="7242">361.  2017-04-22 12:57:20 +0000     6938 bytes  test/LibraryTests.js</tspan>
-<tspan x="10" y="7258">362.  2017-04-22 12:57:20 +0000     8875 bytes  test/LocalisationTests.js</tspan>
-<tspan x="10" y="7274">363.  2017-04-22 12:57:20 +0000    12022 bytes  test/MacroTests.js</tspan>
-<tspan x="10" y="7290">364.  2017-04-22 12:57:20 +0000     1187 bytes  test/RegularExpressionTests.js</tspan>
-<tspan x="10" y="7306">365.  2017-04-22 12:57:20 +0000      532 bytes  test/StepParserTests.js</tspan>
-<tspan x="10" y="7322">366.  2017-04-22 12:57:20 +0000      561 bytes  test/StringUtilsTests.js</tspan>
-<tspan x="10" y="7338">367.  2017-04-22 12:57:20 +0000     3991 bytes  test/YaddaTests.js</tspan>
-<tspan x="10" y="7354">368.  2017-04-22 12:57:20 +0000      666 bytes  test/converters/DateConverterTest.js</tspan>
-<tspan x="10" y="7370">369.  2017-04-22 12:57:20 +0000      653 bytes  test/converters/FloatConverterTest.js</tspan>
-<tspan x="10" y="7386">370.  2017-04-22 12:57:20 +0000      659 bytes  test/converters/IntegerConverterTest.js</tspan>
-<tspan x="10" y="7402">371.  2017-04-22 12:57:20 +0000      391 bytes  test/converters/ListConverterTest.js</tspan>
-<tspan x="10" y="7418">372.  2017-04-22 12:57:20 +0000     4669 bytes  test/converters/TableConverterTest.js</tspan>
-<tspan x="10" y="7434">373.  2017-04-22 12:57:20 +0000      285 bytes  test/features/annotated/annotated_example_table.\</tspan>
+<tspan x="10" y="5978">282.  2017-04-25 20:59:41 +0000      297 bytes  examples/resuable-scenarios/package.json</tspan>
+<tspan x="10" y="5994">283.  2017-04-25 20:59:41 +0000      606 bytes  examples/resuable-scenarios/test.js</tspan>
+<tspan x="10" y="6010">284.  2017-04-25 20:59:41 +0000       69 bytes  examples/zombie/README.md</tspan>
+<tspan x="10" y="6026">285.  2017-04-25 20:59:41 +0000       69 bytes  examples/zombie/bin/example.bat</tspan>
+<tspan x="10" y="6042">286.  2017-04-25 20:59:41 +0000      266 bytes  examples/zombie/bin/example.js</tspan>
+<tspan x="10" y="6058">287.  2017-04-25 20:59:41 +0000       78 bytes  examples/zombie/bin/example.sh</tspan>
+<tspan x="10" y="6074">288.  2017-04-25 20:59:41 +0000      645 bytes  examples/zombie/features/google.feature</tspan>
+<tspan x="10" y="6090">289.  2017-04-25 20:59:41 +0000     1527 bytes  examples/zombie/google-library.js</tspan>
+<tspan x="10" y="6106">290.  2017-04-25 20:59:41 +0000      347 bytes  examples/zombie/package.json</tspan>
+<tspan x="10" y="6122">291.  2017-04-25 20:59:41 +0000      503 bytes  examples/zombie/test.js</tspan>
+<tspan x="10" y="6138">292.  2017-04-25 20:59:41 +0000     1208 bytes  karma.conf.js</tspan>
+<tspan x="10" y="6154">293.  2017-04-25 20:59:41 +0000     4151 bytes  lib/Array.js</tspan>
+<tspan x="10" y="6170">294.  2017-04-25 20:59:41 +0000     2168 bytes  lib/Competition.js</tspan>
+<tspan x="10" y="6186">295.  2017-04-25 20:59:41 +0000      772 bytes  lib/Context.js</tspan>
+<tspan x="10" y="6202">296.  2017-04-25 20:59:41 +0000     4522 bytes  lib/Dictionary.js</tspan>
+<tspan x="10" y="6218">297.  2017-04-25 20:59:41 +0000     1417 bytes  lib/EventBus.js</tspan>
+<tspan x="10" y="6234">298.  2017-04-25 20:59:41 +0000      268 bytes  lib/FeatureFileSearch.js</tspan>
+<tspan x="10" y="6250">299.  2017-04-25 20:59:41 +0000     1725 bytes  lib/FileSearch.js</tspan>
+<tspan x="10" y="6266">300.  2017-04-25 20:59:41 +0000     2468 bytes  lib/Interpreter.js</tspan>
+<tspan x="10" y="6282">301.  2017-04-25 20:59:41 +0000     1213 bytes  lib/Library.js</tspan>
+<tspan x="10" y="6298">302.  2017-04-25 20:59:41 +0000     3051 bytes  lib/Macro.js</tspan>
+<tspan x="10" y="6314">303.  2017-04-25 20:59:41 +0000      941 bytes  lib/Platform.js</tspan>
+<tspan x="10" y="6330">304.  2017-04-25 20:59:41 +0000     1581 bytes  lib/RegularExpression.js</tspan>
+<tspan x="10" y="6346">305.  2017-04-25 20:59:41 +0000      514 bytes  lib/StringUtils.js</tspan>
+<tspan x="10" y="6362">306.  2017-04-25 20:59:41 +0000     1183 bytes  lib/Yadda.js</tspan>
+<tspan x="10" y="6378">307.  2017-04-25 20:59:41 +0000      251 bytes  lib/converters/date-converter.js</tspan>
+<tspan x="10" y="6394">308.  2017-04-25 20:59:41 +0000      243 bytes  lib/converters/float-converter.js</tspan>
+<tspan x="10" y="6410">309.  2017-04-25 20:59:41 +0000      296 bytes  lib/converters/index.js</tspan>
+<tspan x="10" y="6426">310.  2017-04-25 20:59:41 +0000      246 bytes  lib/converters/integer-converter.js</tspan>
+<tspan x="10" y="6442">311.  2017-04-25 20:59:41 +0000      116 bytes  lib/converters/list-converter.js</tspan>
+<tspan x="10" y="6458">312.  2017-04-25 20:59:41 +0000      112 bytes  lib/converters/pass-through-converter.js</tspan>
+<tspan x="10" y="6474">313.  2017-04-25 20:59:41 +0000     2217 bytes  lib/converters/table-converter.js</tspan>
+<tspan x="10" y="6490">314.  2017-04-25 20:59:41 +0000     1148 bytes  lib/fn.js</tspan>
+<tspan x="10" y="6506">315.  2017-04-25 20:59:41 +0000      879 bytes  lib/index.js</tspan>
+<tspan x="10" y="6522">316.  2017-04-25 20:59:41 +0000      907 bytes  lib/localisation/Chinese.js</tspan>
+<tspan x="10" y="6538">317.  2017-04-25 20:59:41 +0000      658 bytes  lib/localisation/Dutch.js</tspan>
+<tspan x="10" y="6554">318.  2017-04-25 20:59:41 +0000      624 bytes  lib/localisation/English.js</tspan>
+<tspan x="10" y="6570">319.  2017-04-25 20:59:41 +0000     1331 bytes  lib/localisation/French.js</tspan>
+<tspan x="10" y="6586">320.  2017-04-25 20:59:41 +0000      791 bytes  lib/localisation/German.js</tspan>
+<tspan x="10" y="6602">321.  2017-04-25 20:59:41 +0000     1386 bytes  lib/localisation/Language.js</tspan>
+<tspan x="10" y="6618">322.  2017-04-25 20:59:41 +0000      796 bytes  lib/localisation/Norwegian.js</tspan>
+<tspan x="10" y="6634">323.  2017-04-25 20:59:41 +0000      843 bytes  lib/localisation/Pirate.js</tspan>
+<tspan x="10" y="6650">324.  2017-04-25 20:59:41 +0000     1238 bytes  lib/localisation/Polish.js</tspan>
+<tspan x="10" y="6666">325.  2017-04-25 20:59:41 +0000     1178 bytes  lib/localisation/Portuguese.js</tspan>
+<tspan x="10" y="6682">326.  2017-04-25 20:59:41 +0000      770 bytes  lib/localisation/Russian.js</tspan>
+<tspan x="10" y="6698">327.  2017-04-25 20:59:41 +0000     1130 bytes  lib/localisation/Spanish.js</tspan>
+<tspan x="10" y="6714">328.  2017-04-25 20:59:41 +0000      982 bytes  lib/localisation/Ukrainian.js</tspan>
+<tspan x="10" y="6730">329.  2017-04-25 20:59:41 +0000      530 bytes  lib/localisation/index.js</tspan>
+<tspan x="10" y="6746">330.  2017-04-25 20:59:41 +0000      423 bytes  lib/parsers/FeatureFileParser.js</tspan>
+<tspan x="10" y="6762">331.  2017-04-25 20:59:41 +0000    21051 bytes  lib/parsers/FeatureParser.js</tspan>
+<tspan x="10" y="6778">332.  2017-04-25 20:59:41 +0000      465 bytes  lib/parsers/StepParser.js</tspan>
+<tspan x="10" y="6794">333.  2017-04-25 20:59:41 +0000      179 bytes  lib/parsers/index.js</tspan>
+<tspan x="10" y="6810">334.  2017-04-25 20:59:41 +0000      769 bytes  lib/plugins/CasperPlugin.js</tspan>
+<tspan x="10" y="6826">335.  2017-04-25 20:59:41 +0000      278 bytes  lib/plugins/index.js</tspan>
+<tspan x="10" y="6842">336.  2017-04-25 20:59:41 +0000     2356 bytes  lib/plugins/mocha/BasePlugin.js</tspan>
+<tspan x="10" y="6858">337.  2017-04-25 20:59:41 +0000      954 bytes  lib/plugins/mocha/ScenarioLevelPlugin.js</tspan>
+<tspan x="10" y="6874">338.  2017-04-25 20:59:41 +0000     1846 bytes  lib/plugins/mocha/StepLevelPlugin.js</tspan>
+<tspan x="10" y="6890">339.  2017-04-25 20:59:41 +0000     1932 bytes  lib/scores/LevenshteinDistanceScore.js</tspan>
+<tspan x="10" y="6906">340.  2017-04-25 20:59:41 +0000      591 bytes  lib/scores/MultiScore.js</tspan>
+<tspan x="10" y="6922">341.  2017-04-25 20:59:41 +0000      414 bytes  lib/scores/SameLibraryScore.js</tspan>
+<tspan x="10" y="6938">342.  2017-04-25 20:59:41 +0000     1048 bytes  lib/shims/index.js</tspan>
+<tspan x="10" y="6954">343.  2017-04-25 20:59:41 +0000     5048 bytes  lib/shims/karma-fs.js</tspan>
+<tspan x="10" y="6970">344.  2017-04-25 20:59:41 +0000      473 bytes  lib/shims/karma-path.js</tspan>
+<tspan x="10" y="6986">345.  2017-04-25 20:59:41 +0000      213 bytes  lib/shims/karma-process.js</tspan>
+<tspan x="10" y="7002">346.  2017-04-25 20:59:41 +0000      578 bytes  lib/shims/phantom-fs.js</tspan>
+<tspan x="10" y="7018">347.  2017-04-25 20:59:41 +0000      496 bytes  lib/shims/phantom-path.js</tspan>
+<tspan x="10" y="7034">348.  2017-04-25 20:59:41 +0000      313 bytes  lib/shims/phantom-process.js</tspan>
+<tspan x="10" y="7050">349.  2017-04-25 20:59:41 +0000     3131 bytes  package.json</tspan>
+<tspan x="10" y="7066">350.  2017-04-25 20:59:41 +0000     1282 bytes  test/ArrayTests.js</tspan>
+<tspan x="10" y="7082">351.  2017-04-25 20:59:41 +0000     3717 bytes  test/CompetitionTests.js</tspan>
+<tspan x="10" y="7098">352.  2017-04-25 20:59:41 +0000     1092 bytes  test/ContextTests.js</tspan>
+<tspan x="10" y="7114">353.  2017-04-25 20:59:41 +0000      212 bytes  test/Counter.js</tspan>
+<tspan x="10" y="7130">354.  2017-04-25 20:59:41 +0000     7119 bytes  test/DictionaryTests.js</tspan>
+<tspan x="10" y="7146">355.  2017-04-25 20:59:41 +0000     2185 bytes  test/EventBusTests.js</tspan>
+<tspan x="10" y="7162">356.  2017-04-25 20:59:41 +0000      660 bytes  test/FeatureFileSearchTests.js</tspan>
+<tspan x="10" y="7178">357.  2017-04-25 20:59:41 +0000    28201 bytes  test/FeatureParserTests.js</tspan>
+<tspan x="10" y="7194">358.  2017-04-25 20:59:41 +0000     1407 bytes  test/FileSearchTests.js</tspan>
+<tspan x="10" y="7210">359.  2017-04-25 20:59:41 +0000     1128 bytes  test/FunctionalTests.js</tspan>
+<tspan x="10" y="7226">360.  2017-04-25 20:59:41 +0000     6326 bytes  test/InterpreterTests.js</tspan>
+<tspan x="10" y="7242">361.  2017-04-25 20:59:41 +0000     6938 bytes  test/LibraryTests.js</tspan>
+<tspan x="10" y="7258">362.  2017-04-25 20:59:41 +0000     8875 bytes  test/LocalisationTests.js</tspan>
+<tspan x="10" y="7274">363.  2017-04-25 20:59:41 +0000    12022 bytes  test/MacroTests.js</tspan>
+<tspan x="10" y="7290">364.  2017-04-25 20:59:41 +0000     1187 bytes  test/RegularExpressionTests.js</tspan>
+<tspan x="10" y="7306">365.  2017-04-25 20:59:41 +0000      532 bytes  test/StepParserTests.js</tspan>
+<tspan x="10" y="7322">366.  2017-04-25 20:59:41 +0000      561 bytes  test/StringUtilsTests.js</tspan>
+<tspan x="10" y="7338">367.  2017-04-25 20:59:41 +0000     3991 bytes  test/YaddaTests.js</tspan>
+<tspan x="10" y="7354">368.  2017-04-25 20:59:41 +0000      666 bytes  test/converters/DateConverterTest.js</tspan>
+<tspan x="10" y="7370">369.  2017-04-25 20:59:41 +0000      653 bytes  test/converters/FloatConverterTest.js</tspan>
+<tspan x="10" y="7386">370.  2017-04-25 20:59:41 +0000      659 bytes  test/converters/IntegerConverterTest.js</tspan>
+<tspan x="10" y="7402">371.  2017-04-25 20:59:41 +0000      391 bytes  test/converters/ListConverterTest.js</tspan>
+<tspan x="10" y="7418">372.  2017-04-25 20:59:41 +0000     4669 bytes  test/converters/TableConverterTest.js</tspan>
+<tspan x="10" y="7434">373.  2017-04-25 20:59:41 +0000      285 bytes  test/features/annotated/annotated_example_table.\</tspan>
 <tspan x="10" y="7450">feature</tspan>
-<tspan x="10" y="7466">374.  2017-04-22 12:57:20 +0000      123 bytes  test/features/annotated/annotated_feature.featur\</tspan>
+<tspan x="10" y="7466">374.  2017-04-25 20:59:41 +0000      123 bytes  test/features/annotated/annotated_feature.featur\</tspan>
 <tspan x="10" y="7482">e</tspan>
-<tspan x="10" y="7498">375.  2017-04-22 12:57:20 +0000      112 bytes  test/features/annotated/annotated_feature_non_al\</tspan>
+<tspan x="10" y="7498">375.  2017-04-25 20:59:41 +0000      112 bytes  test/features/annotated/annotated_feature_non_al\</tspan>
 <tspan x="10" y="7514">phanumeric.feature</tspan>
-<tspan x="10" y="7530">376.  2017-04-22 12:57:20 +0000      372 bytes  test/features/annotated/annotated_multiline_exam\</tspan>
+<tspan x="10" y="7530">376.  2017-04-25 20:59:41 +0000      372 bytes  test/features/annotated/annotated_multiline_exam\</tspan>
 <tspan x="10" y="7546">ple_table.feature</tspan>
-<tspan x="10" y="7562">377.  2017-04-22 12:57:20 +0000      102 bytes  test/features/annotated/annotated_scenario.featu\</tspan>
+<tspan x="10" y="7562">377.  2017-04-25 20:59:41 +0000      102 bytes  test/features/annotated/annotated_scenario.featu\</tspan>
 <tspan x="10" y="7578">re</tspan>
-<tspan x="10" y="7594">378.  2017-04-22 12:57:20 +0000      161 bytes  test/features/annotated/annotated_scenario_after\</tspan>
+<tspan x="10" y="7594">378.  2017-04-25 20:59:41 +0000      161 bytes  test/features/annotated/annotated_scenario_after\</tspan>
 <tspan x="10" y="7610">_background.feature</tspan>
-<tspan x="10" y="7626">379.  2017-04-22 12:57:20 +0000      138 bytes  test/features/annotated/untrimmed_annotated_feat\</tspan>
+<tspan x="10" y="7626">379.  2017-04-25 20:59:41 +0000      138 bytes  test/features/annotated/untrimmed_annotated_feat\</tspan>
 <tspan x="10" y="7642">ure.feature</tspan>
-<tspan x="10" y="7658">380.  2017-04-22 12:57:20 +0000      139 bytes  test/features/annotated/untrimmed_annotated_scen\</tspan>
+<tspan x="10" y="7658">380.  2017-04-25 20:59:41 +0000      139 bytes  test/features/annotated/untrimmed_annotated_scen\</tspan>
 <tspan x="10" y="7674">ario.feature</tspan>
-<tspan x="10" y="7690">381.  2017-04-22 12:57:20 +0000      468 bytes  test/features/background/background_with_multili\</tspan>
+<tspan x="10" y="7690">381.  2017-04-25 20:59:41 +0000      468 bytes  test/features/background/background_with_multili\</tspan>
 <tspan x="10" y="7706">ne_step.feature</tspan>
-<tspan x="10" y="7722">382.  2017-04-22 12:57:20 +0000      149 bytes  test/features/background/feature_with_background\</tspan>
+<tspan x="10" y="7722">382.  2017-04-25 20:59:41 +0000      149 bytes  test/features/background/feature_with_background\</tspan>
 <tspan x="10" y="7738">.feature</tspan>
-<tspan x="10" y="7754">383.  2017-04-22 12:57:20 +0000      176 bytes  test/features/background/malformed_background_an\</tspan>
+<tspan x="10" y="7754">383.  2017-04-25 20:59:41 +0000      176 bytes  test/features/background/malformed_background_an\</tspan>
 <tspan x="10" y="7770">notated.feature</tspan>
-<tspan x="10" y="7786">384.  2017-04-22 12:57:20 +0000      236 bytes  test/features/comment/multiline_comment.feature</tspan>
-<tspan x="10" y="7802">385.  2017-04-22 12:57:20 +0000      151 bytes  test/features/comment/singleline_comment.feature</tspan>
-<tspan x="10" y="7818">386.  2017-04-22 12:57:20 +0000      224 bytes  test/features/example_table/complex_multiline_ex\</tspan>
+<tspan x="10" y="7786">384.  2017-04-25 20:59:41 +0000      236 bytes  test/features/comment/multiline_comment.feature</tspan>
+<tspan x="10" y="7802">385.  2017-04-25 20:59:41 +0000      151 bytes  test/features/comment/singleline_comment.feature</tspan>
+<tspan x="10" y="7818">386.  2017-04-25 20:59:41 +0000      224 bytes  test/features/example_table/complex_multiline_ex\</tspan>
 <tspan x="10" y="7834">ample_table.feature</tspan>
-<tspan x="10" y="7850">387.  2017-04-22 12:57:20 +0000      181 bytes  test/features/example_table/example_table.featur\</tspan>
+<tspan x="10" y="7850">387.  2017-04-25 20:59:41 +0000      181 bytes  test/features/example_table/example_table.featur\</tspan>
 <tspan x="10" y="7866">e</tspan>
-<tspan x="10" y="7882">388.  2017-04-22 12:57:20 +0000      193 bytes  test/features/example_table/example_table_2506.f\</tspan>
+<tspan x="10" y="7882">388.  2017-04-25 20:59:41 +0000      193 bytes  test/features/example_table/example_table_2506.f\</tspan>
 <tspan x="10" y="7898">eature</tspan>
-<tspan x="10" y="7914">389.  2017-04-22 12:57:20 +0000      245 bytes  test/features/example_table/example_table_follow\</tspan>
+<tspan x="10" y="7914">389.  2017-04-25 20:59:41 +0000      245 bytes  test/features/example_table/example_table_follow\</tspan>
 <tspan x="10" y="7930">ed_by_annotated_scenario.feature</tspan>
-<tspan x="10" y="7946">390.  2017-04-22 12:57:20 +0000      181 bytes  test/features/example_table/example_table_with_c\</tspan>
+<tspan x="10" y="7946">390.  2017-04-25 20:59:41 +0000      181 bytes  test/features/example_table/example_table_with_c\</tspan>
 <tspan x="10" y="7962">hevrons.feature</tspan>
-<tspan x="10" y="7978">391.  2017-04-22 12:57:20 +0000      269 bytes  test/features/example_table/example_table_with_o\</tspan>
+<tspan x="10" y="7978">391.  2017-04-25 20:59:41 +0000      269 bytes  test/features/example_table/example_table_with_o\</tspan>
 <tspan x="10" y="7994">uter_borders.feature</tspan>
-<tspan x="10" y="8010">392.  2017-04-22 12:57:20 +0000      381 bytes  test/features/example_table/feature_with_backgro\</tspan>
+<tspan x="10" y="8010">392.  2017-04-25 20:59:41 +0000      381 bytes  test/features/example_table/feature_with_backgro\</tspan>
 <tspan x="10" y="8026">und_and_example_table.feature</tspan>
-<tspan x="10" y="8042">393.  2017-04-22 12:57:20 +0000       83 bytes  test/features/example_table/incomplete_example_t\</tspan>
+<tspan x="10" y="8042">393.  2017-04-25 20:59:41 +0000       83 bytes  test/features/example_table/incomplete_example_t\</tspan>
 <tspan x="10" y="8058">able_1.feature</tspan>
-<tspan x="10" y="8074">394.  2017-04-22 12:57:20 +0000       80 bytes  test/features/example_table/incomplete_example_t\</tspan>
+<tspan x="10" y="8074">394.  2017-04-25 20:59:41 +0000       80 bytes  test/features/example_table/incomplete_example_t\</tspan>
 <tspan x="10" y="8090">able_2.feature</tspan>
-<tspan x="10" y="8106">395.  2017-04-22 12:57:20 +0000      168 bytes  test/features/example_table/incomplete_example_t\</tspan>
+<tspan x="10" y="8106">395.  2017-04-25 20:59:41 +0000      168 bytes  test/features/example_table/incomplete_example_t\</tspan>
 <tspan x="10" y="8122">able_3.feature</tspan>
-<tspan x="10" y="8138">396.  2017-04-22 12:57:20 +0000      177 bytes  test/features/example_table/incomplete_example_t\</tspan>
+<tspan x="10" y="8138">396.  2017-04-25 20:59:41 +0000      177 bytes  test/features/example_table/incomplete_example_t\</tspan>
 <tspan x="10" y="8154">able_4.feature</tspan>
-<tspan x="10" y="8170">397.  2017-04-22 12:57:20 +0000      105 bytes  test/features/example_table/malformed_example_ta\</tspan>
+<tspan x="10" y="8170">397.  2017-04-25 20:59:41 +0000      105 bytes  test/features/example_table/malformed_example_ta\</tspan>
 <tspan x="10" y="8186">ble_1.feature</tspan>
-<tspan x="10" y="8202">398.  2017-04-22 12:57:20 +0000      202 bytes  test/features/example_table/malformed_example_ta\</tspan>
+<tspan x="10" y="8202">398.  2017-04-25 20:59:41 +0000      202 bytes  test/features/example_table/malformed_example_ta\</tspan>
 <tspan x="10" y="8218">ble_2.feature</tspan>
-<tspan x="10" y="8234">399.  2017-04-22 12:57:20 +0000      219 bytes  test/features/example_table/malformed_example_ta\</tspan>
+<tspan x="10" y="8234">399.  2017-04-25 20:59:41 +0000      219 bytes  test/features/example_table/malformed_example_ta\</tspan>
 <tspan x="10" y="8250">ble_3.feature</tspan>
-<tspan x="10" y="8266">400.  2017-04-22 12:57:20 +0000      229 bytes  test/features/example_table/malformed_multiline_\</tspan>
+<tspan x="10" y="8266">400.  2017-04-25 20:59:41 +0000      229 bytes  test/features/example_table/malformed_multiline_\</tspan>
 <tspan x="10" y="8282">example_table_1.feature</tspan>
-<tspan x="10" y="8298">401.  2017-04-22 12:57:20 +0000      142 bytes  test/features/example_table/malformed_multiline_\</tspan>
+<tspan x="10" y="8298">401.  2017-04-25 20:59:41 +0000      142 bytes  test/features/example_table/malformed_multiline_\</tspan>
 <tspan x="10" y="8314">example_table_2.feature</tspan>
-<tspan x="10" y="8330">402.  2017-04-22 12:57:20 +0000      199 bytes  test/features/example_table/malformed_multiline_\</tspan>
+<tspan x="10" y="8330">402.  2017-04-25 20:59:41 +0000      199 bytes  test/features/example_table/malformed_multiline_\</tspan>
 <tspan x="10" y="8346">example_table_3.feature</tspan>
-<tspan x="10" y="8362">403.  2017-04-22 12:57:20 +0000      311 bytes  test/features/example_table/meta_fields.feature</tspan>
-<tspan x="10" y="8378">404.  2017-04-22 12:57:20 +0000      300 bytes  test/features/example_table/meta_fields_multilin\</tspan>
+<tspan x="10" y="8362">403.  2017-04-25 20:59:41 +0000      311 bytes  test/features/example_table/meta_fields.feature</tspan>
+<tspan x="10" y="8378">404.  2017-04-25 20:59:41 +0000      300 bytes  test/features/example_table/meta_fields_multilin\</tspan>
 <tspan x="10" y="8394">e_example_table.feature</tspan>
-<tspan x="10" y="8410">405.  2017-04-22 12:57:20 +0000      332 bytes  test/features/example_table/multiline_example_ta\</tspan>
+<tspan x="10" y="8410">405.  2017-04-25 20:59:41 +0000      332 bytes  test/features/example_table/multiline_example_ta\</tspan>
 <tspan x="10" y="8426">ble_with_outer_border.feature</tspan>
-<tspan x="10" y="8442">406.  2017-04-22 12:57:20 +0000      196 bytes  test/features/example_table/multiline_step_examp\</tspan>
+<tspan x="10" y="8442">406.  2017-04-25 20:59:41 +0000      196 bytes  test/features/example_table/multiline_step_examp\</tspan>
 <tspan x="10" y="8458">le_table.feature</tspan>
-<tspan x="10" y="8474">407.  2017-04-22 12:57:20 +0000      215 bytes  test/features/example_table/simple_multiline_exa\</tspan>
+<tspan x="10" y="8474">407.  2017-04-25 20:59:41 +0000      215 bytes  test/features/example_table/simple_multiline_exa\</tspan>
 <tspan x="10" y="8490">mple_table.feature</tspan>
-<tspan x="10" y="8506">408.  2017-04-22 12:57:20 +0000      163 bytes  test/features/feature/feature_description.featur\</tspan>
+<tspan x="10" y="8506">408.  2017-04-25 20:59:41 +0000      163 bytes  test/features/feature/feature_description.featur\</tspan>
 <tspan x="10" y="8522">e</tspan>
-<tspan x="10" y="8538">409.  2017-04-22 12:57:20 +0000       31 bytes  test/features/feature/incomplete_feature.feature</tspan>
-<tspan x="10" y="8554">410.  2017-04-22 12:57:20 +0000       81 bytes  test/features/feature/multiple_features.feature</tspan>
-<tspan x="10" y="8570">411.  2017-04-22 12:57:20 +0000       85 bytes  test/features/feature/simple_feature.feature</tspan>
-<tspan x="10" y="8586">412.  2017-04-22 12:57:20 +0000      149 bytes  test/features/localisation/pirate_feature.featur\</tspan>
+<tspan x="10" y="8538">409.  2017-04-25 20:59:41 +0000       31 bytes  test/features/feature/incomplete_feature.feature</tspan>
+<tspan x="10" y="8554">410.  2017-04-25 20:59:41 +0000       81 bytes  test/features/feature/multiple_features.feature</tspan>
+<tspan x="10" y="8570">411.  2017-04-25 20:59:41 +0000       85 bytes  test/features/feature/simple_feature.feature</tspan>
+<tspan x="10" y="8586">412.  2017-04-25 20:59:41 +0000      149 bytes  test/features/localisation/pirate_feature.featur\</tspan>
 <tspan x="10" y="8602">e</tspan>
-<tspan x="10" y="8618">413.  2017-04-22 12:57:20 +0000       56 bytes  test/features/scenario/complex_scenario.feature</tspan>
-<tspan x="10" y="8634">414.  2017-04-22 12:57:20 +0000       22 bytes  test/features/scenario/incomplete_scenario_1.fea\</tspan>
+<tspan x="10" y="8618">413.  2017-04-25 20:59:41 +0000       56 bytes  test/features/scenario/complex_scenario.feature</tspan>
+<tspan x="10" y="8634">414.  2017-04-25 20:59:41 +0000       22 bytes  test/features/scenario/incomplete_scenario_1.fea\</tspan>
 <tspan x="10" y="8650">ture</tspan>
-<tspan x="10" y="8666">415.  2017-04-22 12:57:20 +0000       54 bytes  test/features/scenario/incomplete_scenario_2.fea\</tspan>
+<tspan x="10" y="8666">415.  2017-04-25 20:59:41 +0000       54 bytes  test/features/scenario/incomplete_scenario_2.fea\</tspan>
 <tspan x="10" y="8682">ture</tspan>
-<tspan x="10" y="8698">416.  2017-04-22 12:57:20 +0000       63 bytes  test/features/scenario/incomplete_scenario_3.fea\</tspan>
+<tspan x="10" y="8698">416.  2017-04-25 20:59:41 +0000       63 bytes  test/features/scenario/incomplete_scenario_3.fea\</tspan>
 <tspan x="10" y="8714">ture</tspan>
-<tspan x="10" y="8730">417.  2017-04-22 12:57:20 +0000       64 bytes  test/features/scenario/incomplete_scenario_4.fea\</tspan>
+<tspan x="10" y="8730">417.  2017-04-25 20:59:41 +0000       64 bytes  test/features/scenario/incomplete_scenario_4.fea\</tspan>
 <tspan x="10" y="8746">ture</tspan>
-<tspan x="10" y="8762">418.  2017-04-22 12:57:20 +0000      326 bytes  test/features/scenario/malformed_multiline_scena\</tspan>
+<tspan x="10" y="8762">418.  2017-04-25 20:59:41 +0000      326 bytes  test/features/scenario/malformed_multiline_scena\</tspan>
 <tspan x="10" y="8778">rio_1.feature</tspan>
-<tspan x="10" y="8794">419.  2017-04-22 12:57:20 +0000      387 bytes  test/features/scenario/malformed_multiline_scena\</tspan>
+<tspan x="10" y="8794">419.  2017-04-25 20:59:41 +0000      387 bytes  test/features/scenario/malformed_multiline_scena\</tspan>
 <tspan x="10" y="8810">rio_2.feature</tspan>
-<tspan x="10" y="8826">420.  2017-04-22 12:57:20 +0000       77 bytes  test/features/scenario/malformed_multiline_scena\</tspan>
+<tspan x="10" y="8826">420.  2017-04-25 20:59:41 +0000       77 bytes  test/features/scenario/malformed_multiline_scena\</tspan>
 <tspan x="10" y="8842">rio_3.feature</tspan>
-<tspan x="10" y="8858">421.  2017-04-22 12:57:20 +0000       85 bytes  test/features/scenario/malformed_multiline_scena\</tspan>
+<tspan x="10" y="8858">421.  2017-04-25 20:59:41 +0000       85 bytes  test/features/scenario/malformed_multiline_scena\</tspan>
 <tspan x="10" y="8874">rio_4.feature</tspan>
-<tspan x="10" y="8890">422.  2017-04-22 12:57:20 +0000      104 bytes  test/features/scenario/malformed_multiline_scena\</tspan>
+<tspan x="10" y="8890">422.  2017-04-25 20:59:41 +0000      104 bytes  test/features/scenario/malformed_multiline_scena\</tspan>
 <tspan x="10" y="8906">rio_5.feature</tspan>
-<tspan x="10" y="8922">423.  2017-04-22 12:57:20 +0000       21 bytes  test/features/scenario/missing_scenario.feature</tspan>
-<tspan x="10" y="8938">424.  2017-04-22 12:57:20 +0000      309 bytes  test/features/scenario/multiline_step_scenario.f\</tspan>
+<tspan x="10" y="8922">423.  2017-04-25 20:59:41 +0000       21 bytes  test/features/scenario/missing_scenario.feature</tspan>
+<tspan x="10" y="8938">424.  2017-04-25 20:59:41 +0000      309 bytes  test/features/scenario/multiline_step_scenario.f\</tspan>
 <tspan x="10" y="8954">eature</tspan>
-<tspan x="10" y="8970">425.  2017-04-22 12:57:20 +0000      336 bytes  test/features/scenario/multiline_step_scenario_w\</tspan>
+<tspan x="10" y="8970">425.  2017-04-25 20:59:41 +0000      336 bytes  test/features/scenario/multiline_step_scenario_w\</tspan>
 <tspan x="10" y="8986">ith_ending_dash.feature</tspan>
-<tspan x="10" y="9002">426.  2017-04-22 12:57:20 +0000     1287 bytes  test/features/scenario/multiline_step_scenario_w\</tspan>
+<tspan x="10" y="9002">426.  2017-04-25 20:59:41 +0000     1287 bytes  test/features/scenario/multiline_step_scenario_w\</tspan>
 <tspan x="10" y="9018">ith_followers.feature</tspan>
-<tspan x="10" y="9034">427.  2017-04-22 12:57:20 +0000      210 bytes  test/features/scenario/multiline_step_scenario_w\</tspan>
+<tspan x="10" y="9034">427.  2017-04-25 20:59:41 +0000      210 bytes  test/features/scenario/multiline_step_scenario_w\</tspan>
 <tspan x="10" y="9050">ith_indentation.feature</tspan>
-<tspan x="10" y="9066">428.  2017-04-22 12:57:20 +0000      425 bytes  test/features/scenario/multiline_step_scenario_w\</tspan>
+<tspan x="10" y="9066">428.  2017-04-25 20:59:41 +0000      425 bytes  test/features/scenario/multiline_step_scenario_w\</tspan>
 <tspan x="10" y="9082">ith_multiple_blocks.feature</tspan>
-<tspan x="10" y="9098">429.  2017-04-22 12:57:20 +0000      437 bytes  test/features/scenario/multiline_step_scenario_w\</tspan>
+<tspan x="10" y="9098">429.  2017-04-25 20:59:41 +0000      437 bytes  test/features/scenario/multiline_step_scenario_w\</tspan>
 <tspan x="10" y="9114">ith_multiple_blocks_and_blank.feature</tspan>
-<tspan x="10" y="9130">430.  2017-04-22 12:57:20 +0000      147 bytes  test/features/scenario/multiple_scenarios.featur\</tspan>
+<tspan x="10" y="9130">430.  2017-04-25 20:59:41 +0000      147 bytes  test/features/scenario/multiple_scenarios.featur\</tspan>
 <tspan x="10" y="9146">e</tspan>
-<tspan x="10" y="9162">431.  2017-04-22 12:57:20 +0000       47 bytes  test/features/scenario/simple_scenario.feature</tspan>
-<tspan x="10" y="9178">432.  2017-04-22 12:57:20 +0000       57 bytes  test/filesearch/exclude.js</tspan>
-<tspan x="10" y="9194">433.  2017-04-22 12:57:20 +0000       15 bytes  test/filesearch/include.feature</tspan>
-<tspan x="10" y="9210">434.  2017-04-22 12:57:20 +0000       57 bytes  test/filesearch/subdir1/exclude.js</tspan>
-<tspan x="10" y="9226">435.  2017-04-22 12:57:20 +0000       12 bytes  test/filesearch/subdir1/include.spec</tspan>
-<tspan x="10" y="9242">436.  2017-04-22 12:57:20 +0000       57 bytes  test/filesearch/subdir2/subdir3/exclude.js</tspan>
-<tspan x="10" y="9258">437.  2017-04-22 12:57:20 +0000       21 bytes  test/filesearch/subdir2/subdir3/include.specific\</tspan>
+<tspan x="10" y="9162">431.  2017-04-25 20:59:41 +0000       47 bytes  test/features/scenario/simple_scenario.feature</tspan>
+<tspan x="10" y="9178">432.  2017-04-25 20:59:41 +0000       57 bytes  test/filesearch/exclude.js</tspan>
+<tspan x="10" y="9194">433.  2017-04-25 20:59:41 +0000       15 bytes  test/filesearch/include.feature</tspan>
+<tspan x="10" y="9210">434.  2017-04-25 20:59:41 +0000       57 bytes  test/filesearch/subdir1/exclude.js</tspan>
+<tspan x="10" y="9226">435.  2017-04-25 20:59:41 +0000       12 bytes  test/filesearch/subdir1/include.spec</tspan>
+<tspan x="10" y="9242">436.  2017-04-25 20:59:41 +0000       57 bytes  test/filesearch/subdir2/subdir3/exclude.js</tspan>
+<tspan x="10" y="9258">437.  2017-04-25 20:59:41 +0000       21 bytes  test/filesearch/subdir2/subdir3/include.specific\</tspan>
 <tspan x="10" y="9274">ation</tspan>
-<tspan x="10" y="9290">438.  2017-04-22 12:57:20 +0000     2123 bytes  test/lib/hospital-steps.js</tspan>
-<tspan x="10" y="9306">439.  2017-04-22 12:57:20 +0000     1950 bytes  test/lib/hospital.js</tspan>
-<tspan x="10" y="9322">440.  2017-04-22 12:57:20 +0000       27 bytes  test/mocha.opts</tspan>
-<tspan x="10" y="9338">441.  2017-04-22 12:57:20 +0000     1878 bytes  test/scores/MultiScoreTests.js</tspan>
-<tspan x="10" y="9354">442.  2017-04-22 12:57:20 +0000     1404 bytes  test/shims/FileSystemTests.js</tspan>
-<tspan x="10" y="9370">443.  2017-04-22 12:57:20 +0000      619 bytes  test/shims/PathTests.js</tspan>
-<tspan x="10" y="9386">444.  2017-04-22 12:57:20 +0000      312 bytes  test/shims/ProcessTests.js</tspan>
-<tspan x="10" y="9402">445.  2017-04-22 12:57:20 +0000       39 bytes  test/shims/data/file3.json</tspan>
-<tspan x="10" y="9418">446.  2017-04-22 12:57:20 +0000       22 bytes  test/shims/data/subdir1/file1.json</tspan>
-<tspan x="10" y="9434">447.  2017-04-22 12:57:20 +0000       55 bytes  test/shims/data/subdir2/file2.feature</tspan>
+<tspan x="10" y="9290">438.  2017-04-25 20:59:41 +0000     2123 bytes  test/lib/hospital-steps.js</tspan>
+<tspan x="10" y="9306">439.  2017-04-25 20:59:41 +0000     1950 bytes  test/lib/hospital.js</tspan>
+<tspan x="10" y="9322">440.  2017-04-25 20:59:41 +0000       27 bytes  test/mocha.opts</tspan>
+<tspan x="10" y="9338">441.  2017-04-25 20:59:41 +0000     1878 bytes  test/scores/MultiScoreTests.js</tspan>
+<tspan x="10" y="9354">442.  2017-04-25 20:59:41 +0000     1404 bytes  test/shims/FileSystemTests.js</tspan>
+<tspan x="10" y="9370">443.  2017-04-25 20:59:41 +0000      619 bytes  test/shims/PathTests.js</tspan>
+<tspan x="10" y="9386">444.  2017-04-25 20:59:41 +0000      312 bytes  test/shims/ProcessTests.js</tspan>
+<tspan x="10" y="9402">445.  2017-04-25 20:59:41 +0000       39 bytes  test/shims/data/file3.json</tspan>
+<tspan x="10" y="9418">446.  2017-04-25 20:59:41 +0000       22 bytes  test/shims/data/subdir1/file1.json</tspan>
+<tspan x="10" y="9434">447.  2017-04-25 20:59:41 +0000       55 bytes  test/shims/data/subdir2/file2.feature</tspan>
 </text>
 </svg>
